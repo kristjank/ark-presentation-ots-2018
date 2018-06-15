@@ -7,18 +7,24 @@
 - kaj sem bral lani
 - lanski slajdi
 - letosnja literatura (osnove bs, p2p attacks)
-- zakaj ARK, zakaj OSS?
+- 
 ---
+### WHERE ARE WE GOING?
+- new fat protocols explain
+- no more public/private chains
+---
+
+### OPENSOURCE SOFTWARE DEVELOPMENT
+- opensource.guide
+- opisi koraki procesa in vkljucevanja
+---
+
 
 ### WHAT IS ARK?
 
 ---
 
-### OPENSOURCE SOFTWARE DEVELOPMENT
-
----
-
-### HOW DO WE USE OSS TOOLS
+### HOW DO WE USE OSS TOOLS AT ARK
 
 ---
 

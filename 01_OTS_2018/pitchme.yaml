@@ -1,4 +1,4 @@
 logo : assets/logo.png
 theme: moon
 theme-override : assets/css/PITCHME.css
-layout : top-left
+layout: top-left

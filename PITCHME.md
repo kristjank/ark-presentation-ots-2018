@@ -12,6 +12,7 @@
 ### WHERE ARE WE GOING?
 - new fat protocols explain
 - no more public/private chains
+- web 2 in web 3
 ---
 
 ### OPENSOURCE SOFTWARE DEVELOPMENT
@@ -19,16 +20,22 @@
 - opisi koraki procesa in vkljucevanja
 ---
 
-
 ### WHAT IS ARK?
-
+- mission
+- vision
+- blockchain ecosystem
+- ecosystem definition
 ---
 
 ### HOW DO WE USE OSS TOOLS AT ARK
-
+- cli vmesniki
 ---
 
 ### ARK CORE v2 WAS RELEASED
-
+- why
+- what
+- modular/pool/plugins/latest standard.. with one goal..
+- bounties again
+- 
 ---
 

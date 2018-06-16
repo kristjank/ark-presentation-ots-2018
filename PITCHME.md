@@ -3,9 +3,12 @@
 
 ---
 ### TODO - TOFU
-- [] history
-- [] cli-tools
-- [] ad
+- [ ] history
+- [ ] cli-tools
+- [ ] some-live-demo
+- [ ] fat protocols
+- [ ] web 2 web 3
+
 
 
 --- 

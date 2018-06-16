@@ -26,7 +26,7 @@
 ---
 
 ### @fa[history] Looking back...
->Most projects will fail, but the open-source nature of the ecosystems means learnings and code will be available to all
+>Most projects will fail, but the open-source nature of the ecosystem means learnings and code will be available toall. We can learn and build faster than ever. 
 --- 
 ### ONE YEAR HAS PASSED
 - kaj sem bral lani

@@ -44,8 +44,8 @@
   - HTTP/S
   - SMTP...
 
-
-- **Produced** a lot of VALUE
+- **"THIN"** protocols
+- **"FAT"** applications
 - **VALUE in form of DATA**
 - DATA processed in applications
 
@@ -62,6 +62,20 @@
 >Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all.
 
 **We can learn and build faster than ever**.
+
+---?image=assets/images/daftpunkocat.gif&position=center&size=auto 100%&color=white
+@title[OSS-Intro]
+---
+### Open Source Software(OSS) : Wave of the Future
+- Cost reduction
+- Quality improvement
+- Quick time to market
+- Full ownership and control
+- Drive innovation with rapid-pace
+- No vendor lock-in
+- More eyes on the code
+- Integration and collaboration
+- Community support (Live Help Desk)
 ---
 
 ### Current challenges in blockchain space

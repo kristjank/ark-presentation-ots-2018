@@ -2,6 +2,16 @@
 #### Kristjan Kosic, Rok Cernec
 
 --- 
+### AGENDA
+- History
+- 
+
+### Looking back...
+- We are ten (10) years into decentralisation revolution
+- We are moving thru the phase of disillusionment 
+-- 
+
+--- 
 ### ONE YEAR HAS PASSED
 - kaj sem bral lani
 - lanski slajdi

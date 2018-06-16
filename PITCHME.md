@@ -1,6 +1,6 @@
 # Building an open-source blockchain ecosystem with ARK
 
-<a href="https://www.linkedin.com/in/kristjankosic/"> @fa[linkedin] Kristjan Kosic</a> <a href="https://www.ark.io"> @fa[firefox] ARK.io</a> <a href="https://github.com/arkecosystem"> @fa[github] GitHub</a>
+<a href="https://www.linkedin.com/in/kristjankosic/"> @fa[address-card] Kristjan Kosic</a> <a href="https://www.ark.io"> @fa[firefox] ARK.io</a> <a href="https://github.com/arkecosystem"> @fa[github] github.com/arkecosystem</a>
 
 
 ---
@@ -26,9 +26,9 @@
 - 1600 cryptocurrencies
 - <100 platforms or ecosystems
 
----?image=assets/images/edonkey-emule.png
++++?image=assets/images/edonkey-emule.png
 @title[eMule]
----
++++
 ### @fa[history]@fa[history] Looking back...
 - Fat protocols aren’t new
 - 1999, we saw an explosion of p2p file sharing technology
@@ -37,26 +37,26 @@
   - eDonkey, and  eMule
   - BitTorrent
 
---- ?image=assets/images/current-web.png&position=right&size=40% 70%
++++?image=assets/images/current-web.png&position=right&size=40% 70%
 ### @fa[server] Internet
 - Current shared protocols:
   - TCP/IP
   - HTTP/S
-  - SMTP
-  - ...
+  - SMTP...
+
 
 - **Produced** a lot of VALUE
 - **VALUE in form of DATA**
+- DATA processed in applications
 
---- ?image=assets/images/web3.png&position=right&size=40% 70%
++++?image=assets/images/web3.png&position=right&size=40% 70%
 ### @fa[server] Blockchain
 - Inverted relationship
-- VALUE concentrated at Protocol level
+- VALUE concentrated at Protocol Level
 
 
 - **"FAT"** protocols
 - **"THIN"** applications
----
 ---
 ### @fa[history] The raw truth...
 >Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all.
@@ -64,25 +64,25 @@
 **We can learn and build faster than ever**.
 ---
 
-### ONE YEAR HAS PASSED
-- kaj sem bral lani
-- lanski slajdi
-- letosnja literatura (osnove bs, p2p attacks)
----
-### WHERE ARE WE GOING?
-- new fat protocols explain
-- no more public/private chains
-- web 2 in web 3
----
 ### Current challenges in blockchain space
-- interoperability
-- out of 1600 platforms - who will survie - the ones that will be able to connect
+- Interoperability @fa[hands-helping]
+  - 1600 platforms
+  - 100 ecosystems
+
+- Regulation
+- Complexity (end-users)
+- Speed of processing 
+
+---?image=assets/images/ark-bg.jpg
+@title[ARK]
 ---
 ### WHAT IS ARK?
-- mission
-- vision
-- blockchain ecosystem
-- ecosystem definition
+> Ark aims to create an entire ecosystem of linked chains by providing easy to use tools to deploy your own blockchain. 
+
+- ARK is Open-Source
+- Highly flexible and adaptable
+- DPOS Consensus Mechanism (3rd generation)
+
 ---
 ### OPENSOURCE SOFTWARE DEVELOPMENT
 - opensource.guide

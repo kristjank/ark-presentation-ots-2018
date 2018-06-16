@@ -2,11 +2,11 @@
 #### Kristjan Kosic, Rok Cernec
 
 --- 
-### AGENDA
+## AGENDA
 - History
 - 
 ---
-### Looking back...
+## @fa[history] Looking back...
 - We are ten (10) years into decentralisation revolution
 - We are moving thru the phase of disillusionment 
   - Satoshi, CyberPunks...

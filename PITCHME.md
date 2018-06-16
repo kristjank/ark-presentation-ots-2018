@@ -23,6 +23,11 @@
 - Experimental solutions @fa[arrow-circle-right] Complete solutions
 
 ---
+### @fa[database] Do you remember...
+![emule](assets/images/edonkey-emule.png)
+---
+
+---
 ### @fa[history]@fa[history] Looking even more back...
 - Fat protocols aren’t new
 - 1999, we saw an explosion of p2p file sharing technology
@@ -37,9 +42,7 @@
 
 **We can learn and build faster than ever**.
 
----
-![emule](assets/images/edonkey-emule.png)
----
+
 
 
 

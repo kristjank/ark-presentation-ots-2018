@@ -23,8 +23,8 @@
   - Bitcoin birth
 - Thru the phase of disillusionment (hype cycle)
 - Experimental solutions @fa[arrow-circle-right] Complete solutions
-  - 1600 cryptocurrencies
-  - <100 platforms or ecosystems
+- 1600 cryptocurrencies
+- <100 platforms or ecosystems
 
 ---?image=assets/images/edonkey-emule.png
 ---
@@ -129,8 +129,6 @@ executions.
 
 ![Marketplace](assets/images/aces-marketplace-contract-form.png)
 
-[Marketplace is live!](https://marketplace.arkaces.com/)
-
 ---
 
 #### SERVICES
@@ -139,44 +137,67 @@ ACES Services create and execute Service Contracts, which can be anything from u
 a storage blockchain, performing value transfers, creating smart contracts, executing code on
 blockchain based computing platforms, or interacting with IoT hardware.
 
+Services request information from listeners to confirm whether their requirements have been
+fulfilled. The service provider does not need to run a listener of their own.
+
 Example services:
-- ARK->ETH channel service: https://github.com/ark-aces/aces-ark-ethereum-channel-service
-- ETH->ARK channel service: https://github.com/ark-aces/aces-ethereum-ark-channel-service
-- ARK->ETH contract service: https://github.com/ark-aces/aces-ark-ethereum-contract-service
+- ARK->ETH channel service: http://bit.ly/ark-2-eth
+- ETH->ARK channel service: http://bit.ly/eth-2-ark
+- ARK->ETH contract service: http://bit.ly/ark-2-eth-contract
 
 ---
 
 #### LISTENERS
 
 The ACES Listener API provides a way for all the different blockchain transaction events to be
-easily consumed via a common REST-FUL API.
+easily consumed via a common REST-FUL API. It's the component that plugs into a blockchain
+(eg. Bitcoin) and provides standardized API access for ARK services to receive data from a
+blockchain. The listener stands on its own, and does not necessarily need to be run by the same
+person running a service.
 
 Docs: https://ark-aces.github.io/aces-listener-docs/
 
 Example listeners:
-- BTC listener: https://github.com/ark-aces/aces-listener-bitcoin
-- ARK listener: https://github.com/ark-aces/aces-listener-ark
-- ETH listener: https://github.com/ark-aces/aces-listener-ethereum
+- BTC listener: http://bit.ly/aces-btc-listener
+- ARK listener: http://bit.ly/aces-ark-listener
+- ETH listener: http://bit.ly/aces-eth-listener
 
 ---
 
 ### WHAT CAN YOU DO WITH ACES?
 
-- Make transaction on any* chain without holding its coin
+- Make transaction on any\* chain without holding its coin
 - Deploy ETH contracts without holding ETH
 - Execute functions on ETH without holding ETH
-- Run an ICO
+- Run an ICO (receive ETH, ARK, BTC,...)
+- Service Linking: BTC to ETH
 
-*Currently there are services for ARK~ETH, ARK~BTC, ARK~PRS, ARK A~ARK B
+\*Currently there are services for ARK~ETH, ARK~BTC, ARK~PRS, ARK A~ARK B
+
+---
+### How it work
+
+#### 1. ETH -> ARK
+
+![ARK to ETH](assets/images/aces-ark-to-eth.png)
+
+---
+### How it work
+
+#### 2. Service Linking
+
+The design of listeners and services enabled an option to easily link services together.
+
+![ARK to ETH](assets/images/aces-linking-services.png)
 
 ---
 
 ### Other CONTENT
 
-- Official ACES Github: https://github.com/ark-aces (mostly Java)
+- Official ACES Github: https://github.com/ark-aces (primarily in Java)
 - Official ACES blog: https://medium.com/@arkaces
 - ACES Listener docs: https://ark-aces.github.io/aces-listener-docs/
 - ARK->PRS, ARK->KAPU: https://github.com/galperins4/PythAces (Python)
-
+- Official ACES marketplace: https://marketplace.arkaces.com/
 
 ---

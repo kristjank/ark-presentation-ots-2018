@@ -57,6 +57,7 @@
 
 - **"FAT"** protocols
 - **"THIN"** applications
+
 ---
 ### @fa[history] The raw truth...
 >Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all.
@@ -84,6 +85,14 @@
   - 65% companies are contributing to open source projects
   - git is the overwhelming choice for versioning with 73%
   - 90% Open source is the engine of innovation
+
++++
+### @fa[osi] Open Source Software(OSS): Challenges
+- Survey by <a href="http://www.infosysblogs.com/infosysdigital/2016/06/open_source_software_wave_of_future.html">Black Duck Software [N: 1313]</a>
+  - 50 percent of companies haveno formal policy for choosing open source code
+  - 47 percent have no formal process in place to track open source code
+  - 1/3 of companies have no process for identifying, tracking or remediating known open source vulnerabilities
+  - 50% of OSS project have no license defined
 
 +++
 

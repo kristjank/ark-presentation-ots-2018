@@ -3,11 +3,11 @@
 
 ---
 ### TODO - TOFU
-[ ] history
-[ ] cli-tools
-[ ] some-live-demo
-[ ] fat protocols
-[ ] web 2 web 3
+- [ ] history
+- [ ] cli-tools
+- [ ] some-live-demo
+- [ ] fat protocols
+- [ ] web 2 web 3
 
 --- 
 # AGENDA

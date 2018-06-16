@@ -27,7 +27,7 @@
 >Most projects will fail, but the open-source nature of the ecosystem means learnings and code will be available toall. We can learn and build faster than ever. 
 --- 
 
-### @fa[history]@fa[history]@fa[history] Looking even more back...
+### @fa[history]@fa[history] Looking even more back...
 - Fat protocols aren’t new
 - 1999, we saw an explosion of p2p file sharing technology
   - Gnutella (the protocol behind Limewire), 

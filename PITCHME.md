@@ -24,6 +24,8 @@
   - Bitcoin birth
 - Thru the phase of disillusionment (hype cycle)
 - Experimental solutions @fa[arrow-circle-right] Complete solutions
+  - 1600 cryptocurrencies
+  - <100 platforms or ecosystems
 
 ---?image=assets/images/edonkey-emule.png
 ---

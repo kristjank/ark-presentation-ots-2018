@@ -146,9 +146,9 @@ Services request information from listeners to confirm whether their requirement
 fulfilled. The service provider does not need to run a listener of their own.
 
 Example services:
-- ARK->ETH channel service: https://github.com/ark-aces/aces-ark-ethereum-channel-service
-- ETH->ARK channel service: https://github.com/ark-aces/aces-ethereum-ark-channel-service
-- ARK->ETH contract service: https://github.com/ark-aces/aces-ark-ethereum-contract-service
+- ARK->ETH channel service: http://bit.ly/ark-2-eth
+- ETH->ARK channel service: http://bit.ly/eth-2-ark
+- ARK->ETH contract service: http://bit.ly/ark-2-eth-contract
 
 ---
 
@@ -163,9 +163,9 @@ person running a service.
 Docs: https://ark-aces.github.io/aces-listener-docs/
 
 Example listeners:
-- BTC listener: https://github.com/ark-aces/aces-listener-bitcoin
-- ARK listener: https://github.com/ark-aces/aces-listener-ark
-- ETH listener: https://github.com/ark-aces/aces-listener-ethereum
+- BTC listener: http://bit.ly/aces-btc-listener
+- ARK listener: http://bit.ly/aces-ark-listener
+- ETH listener: http://bit.ly/aces-eth-listener
 
 ---
 

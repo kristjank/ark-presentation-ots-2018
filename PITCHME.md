@@ -23,7 +23,7 @@
   - Bitcoin birth
 - Thru the phase of disillusionment 
 - Experimental solutions @fa[arrow-circle-right] Complete solutions
----layout: top-right
+---?layout: top-right
 
 ### @fa[history] Looking back...
 >Most projects will fail, but the open-source nature of the ecosystem means learnings and code will be available toall. We can learn and build faster than ever. 

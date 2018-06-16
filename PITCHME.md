@@ -3,9 +3,9 @@
 
 ---
 ### TODO - TOFU
-[] history
-[] cli-tools
-[] ad
+- [] history
+- [] cli-tools
+- [] ad
 
 
 --- 

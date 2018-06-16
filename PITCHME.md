@@ -36,13 +36,27 @@
   - eDonkey, and  eMule
   - BitTorrent
 
---- ?image=assets/images/current-web.png&position=right&size=40% 70%
-### @fa[server] Fat Protocols
+--- ?image=assets/images/current-web.png&position=right&size=30% 60%
+### @fa[server] Internet
+- Current generation of shared protocols:
+  - TCP/IP
+  - HTTP/S
+  - SMTP
+  - ...
 
+- **Produced** a lot of VALUE
+- **VALUE in form of DATA**
+
+
+--- ?image=assets/images/web3.png&position=right&size=30% 60%
+### @fa[server] Blockchain
+- Inverted relationship
+- VALUE concentrated at Protocol level
+
+
+- **"FAT" protocols and "THIN" applications.**
 
 ---
-
-
 --- 
 ### @fa[history] Looking back...
 >Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all. 

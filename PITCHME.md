@@ -5,11 +5,11 @@
 ### AGENDA
 - History
 - 
-
+---
 ### Looking back...
 - We are ten (10) years into decentralisation revolution
 - We are moving thru the phase of disillusionment 
--- 
+  - Satoshi, CyberPunks...
 
 --- 
 ### ONE YEAR HAS PASSED

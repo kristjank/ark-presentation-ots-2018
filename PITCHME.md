@@ -1,5 +1,6 @@
 ## Building an open-source blockchain ecosystem with ARK
-#### Kristjan Kosic, Rok Cernec
+#### Kristjan Kosic
+
 
 ---
 ### TODO - TOFU
@@ -22,9 +23,9 @@
 - Thru the phase of disillusionment 
 - Experimental solutions @fa[arrow-circle-right] Complete solutions
 
----
-### @fa[database] Do you remember...
-![emule](assets/images/edonkey-emule.png)
+---?image=assets/images/edonkey-emule.png
+### @fa[database] Not so long ago...
+
 ---
 
 ### @fa[history]@fa[history] Looking even more back...

@@ -27,6 +27,7 @@
 - <100 platforms or ecosystems
 
 ---?image=assets/images/edonkey-emule.png
+@title[eMule]
 ---
 ### @fa[history]@fa[history] Looking back...
 - Fat protocols aren’t new
@@ -46,8 +47,6 @@
 
 - **Produced** a lot of VALUE
 - **VALUE in form of DATA**
-[Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
-
 
 --- ?image=assets/images/web3.png&position=right&size=40% 70%
 ### @fa[server] Blockchain
@@ -59,7 +58,7 @@
 - **"THIN"** applications
 ---
 ---
-### @fa[history] Looking back...
+### @fa[history] The raw truth...
 >Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all.
 
 **We can learn and build faster than ever**.

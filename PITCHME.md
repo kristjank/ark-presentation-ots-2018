@@ -1,5 +1,7 @@
 ## Building an open-source blockchain ecosystem with ARK
-#### Kristjan Kosic
+#### <a href:"https://www.linkedin.com/in/kristjankosic/"> @fa[linkedin] Kristjan Kosic</a>
+#### <a href:"https://www.ark.io"> @fa[firefox] ARK.io</a>
+#### <a href:"https://github.com/arkecosystem"> @fa[github] GitHub</a>
 
 
 ---
@@ -11,7 +13,7 @@
 - [ ] web 2 web 3
 
 --- 
-# AGENDA
+### AGENDA
 - History
 - 
 ---
@@ -20,21 +22,26 @@
   - CyberPunks movement (Nick Szabo..)
   - Satoshi
   - Bitcoin birth
-- Thru the phase of disillusionment 
+- Thru the phase of disillusionment (hype cycle)
 - Experimental solutions @fa[arrow-circle-right] Complete solutions
 
 ---?image=assets/images/edonkey-emule.png
-### @fa[database] Not so long ago...
+---
+
+### @fa[history]@fa[history] Looking back...
+- Fat protocols aren’t new
+- 1999, we saw an explosion of p2p file sharing technology
+  - Gnutella (the protocol behind Limewire)
+  - FastTrack (Kazaa)
+  - eDonkey, and  eMule
+  - BitTorrent
+
+--- ?image=assets/images/current-web.png&position=right&size=40% 70%
+### @fa[server] Fat Protocols
+
 
 ---
 
-### @fa[history]@fa[history] Looking even more back...
-- Fat protocols aren’t new
-- 1999, we saw an explosion of p2p file sharing technology
-  - Gnutella (the protocol behind Limewire), 
-  - FastTrack (Kazaa), 
-  - eDonkey, and  eMule, 
-  - BitTorrent
 
 --- 
 ### @fa[history] Looking back...

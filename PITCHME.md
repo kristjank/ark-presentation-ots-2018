@@ -1,6 +1,6 @@
 # Building an open-source blockchain ecosystem with ARK
 
-<a href="https://www.linkedin.com/in/kristjankosic/"> @fa[address-card] Kristjan Kosic</a> <a href="https://www.ark.io"> @fa[firefox] ARK.io</a> <a href="https://github.com/arkecosystem"> @fa[github] github.com/arkecosystem</a>
+<a href="https://www.linkedin.com/in/kristjankosic/"> @fa[contact-card] Kristjan Kosic</a> <a href="https://www.ark.io"> @fa[firefox] ARK.io</a> <a href="https://github.com/arkecosystem"> @fa[github] github.com/arkecosystem</a>
 
 
 ---
@@ -29,7 +29,7 @@
 +++?image=assets/images/edonkey-emule.png
 @title[eMule]
 +++
-### @fa[history]@fa[history] Looking back...
+### @fa[history] @fa[history] Looking back...
 - Fat protocols aren’t new
 - 1999, we saw an explosion of p2p file sharing technology
   - Gnutella (the protocol behind Limewire)
@@ -65,8 +65,8 @@
 
 ---?image=assets/images/daftpunkocat.gif&position=center&size=auto 100%&color=white
 @title[OSS-Intro]
----
-### Open Source Software(OSS) : Wave of the Future
++++
+### @fa[osi] Open Source Software(OSS): Wave of the Future
 - Cost reduction
 - Quality improvement
 - Quick time to market
@@ -76,7 +76,18 @@
 - More eyes on the code
 - Integration and collaboration
 - Community support (Live Help Desk)
----
+
++++
+### @fa[osi] Open Source Software(OSS): Wave of the Future
+- Survey by <a href="http://www.infosysblogs.com/infosysdigital/2016/06/open_source_software_wave_of_future.html">Black Duck Software</a>
+  - 78%  percent of enterprises run on open source
+  - 65% companies are contributing to open source projects 
+  - @fa[fa-git] is the overwhelming choice for versioning with 73%
+  - 
+
+- Open source is the engine of innovation
++++
+
 
 ### Current challenges in blockchain space
 - Interoperability @fa[hands-helping]

@@ -17,11 +17,12 @@
 - 
 ---
 ### @fa[history] Looking back...
-- We are ten (10) years into decentralisation revolution
-- We are moving thru the phase of disillusionment 
+- Ten (10) years into *decentralisation* revolution
   - CyberPunks movement (Nick Szabo..)
   - Satoshi
   - Bitcoin birth
+- Thru the phase of disillusionment 
+- Experimental solutions @fa[arrow-circle-right] Complete solutions
 
 --- 
 ### ONE YEAR HAS PASSED

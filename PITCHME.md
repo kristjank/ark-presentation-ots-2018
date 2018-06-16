@@ -26,7 +26,8 @@
 ### @fa[history] Looking back...
 >Most projects will fail, but the open-source nature of the ecosystem means learnings and code will be available toall. We can learn and build faster than ever.
 
----?image=assets/images/edonkey-emule.png
+---
+![emule](assets/images/edonkey-emule.png)
 ---
 
 ### @fa[history]@fa[history] Looking even more back...

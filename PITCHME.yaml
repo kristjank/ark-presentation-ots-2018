@@ -1,3 +1,5 @@
 logo : assets/images/logo.png
 theme-override : assets/css/PITCHME.css
+theme: beige
+layout: top-left
 footnote : "© 2018 <a href='http://www.ark.io'>Ark Ecosystem</a>"

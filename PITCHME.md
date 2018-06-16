@@ -1,6 +1,6 @@
-## Building an open-source blockchain ecosystem with ARK
+# Building an open-source blockchain ecosystem with ARK
 
-<a href="https://www.linkedin.com/in/kristjankosic/"> @fa[contact-card] Kristjan Kosic</a> <a href="https://www.ark.io"> @fa[firefox] ARK.io</a> <a href="https://github.com/arkecosystem"> @fa[github] github.com/arkecosystem</a>
+<a href="https://www.linkedin.com/in/kristjankosic/"> @fa[id-card] Kristjan Kosic</a> <a href="https://www.ark.io"> @fa[firefox] ARK.io</a> <a href="https://github.com/arkecosystem"> @fa[github] github.com/arkecosystem</a>
 
 
 ---
@@ -19,8 +19,9 @@
 ### @fa[history] Looking back...
 - Ten (10) years into **decentralisation** revolution
   - CyberPunks movement (Nick Szabo..)
-  - Satoshi
-  - Bitcoin birth
+  - Satoshi, Bitcoin birth, whitepaper
+
+
 - Thru the phase of disillusionment (hype cycle)
   - Experimental solutions @fa[arrow-circle-right] Complete solutions
     - 1600 cryptocurrencies
@@ -37,7 +38,7 @@
   - eDonkey, and  eMule
   - BitTorrent
 
-+++?image=assets/images/current-web.png&position=right&size=40% 70%
++++?layout:top-left&image=assets/images/current-web.png&position=right&size=40% 70%
 ### @fa[server] Internet Web 2.0
 - Current shared protocols:
   - TCP/IP
@@ -81,22 +82,24 @@
 +++
 ### @fa[osi] Open Source Software(OSS): Wave of the Future
 - Survey by <a href="http://www.infosysblogs.com/infosysdigital/2016/06/open_source_software_wave_of_future.html">Black Duck Software [N: 1313]</a>
-  - 78%  percent of enterprises run on open source
+  - 78%  of enterprises run on open source
   - 65% companies are contributing to open source projects
-  - git is the overwhelming choice for versioning with 73%
+  - 73% agree that git is the overwhelming choice for versioning
   - 90% Open source is the engine of innovation
 
 +++
 ### @fa[osi] Open Source Software(OSS): Challenges
 - Survey by <a href="http://www.infosysblogs.com/infosysdigital/2016/06/open_source_software_wave_of_future.html">Black Duck Software [N: 1313]</a>
-  - 50 percent of companies haveno formal policy for choosing open source code
-  - 47 percent have no formal process in place to track open source code
+  - 50% of companies haveno formal policy for choosing open source code
+  - 47%  have no formal process in place to track open source code
   - 1/3 of companies have no process for identifying, tracking or remediating known open source vulnerabilities
   - 50% of OSS project have no license defined
 
 +++
+### @fa[osi] Open Source Software(OSS): Wave of the Future
+- <a href="https://opensource.guide/">Opensource Guide/</a>
 
-
+---
 ### Current challenges in blockchain space
 - Interoperability @fa[hands-helping]
   - 1600 platforms

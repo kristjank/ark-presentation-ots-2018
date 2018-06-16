@@ -27,7 +27,6 @@
 ![emule](assets/images/edonkey-emule.png)
 ---
 
----
 ### @fa[history]@fa[history] Looking even more back...
 - Fat protocols aren’t new
 - 1999, we saw an explosion of p2p file sharing technology

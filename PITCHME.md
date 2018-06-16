@@ -1,6 +1,13 @@
 ## Building an open-source blockchain ecosystem with ARK
 #### Kristjan Kosic, Rok Cernec
 
+---
+### TODO - TOFU
+[] history
+[] cli-tools
+[] ad
+
+
 --- 
 # AGENDA
 - History

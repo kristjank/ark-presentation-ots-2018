@@ -21,8 +21,17 @@
   - Bitcoin birth
 - Thru the phase of disillusionment 
 - Experimental solutions @fa[arrow-circle-right] Complete solutions
----
 
+---
+### @fa[history]@fa[history] Looking even more back...
+- Fat protocols aren’t new
+- 1999, we saw an explosion of p2p file sharing technology
+  - Gnutella (the protocol behind Limewire), 
+  - FastTrack (Kazaa), 
+  - eDonkey, and  eMule, 
+  - BitTorrent
+
+--- 
 ### @fa[history] Looking back...
 >Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all. 
 
@@ -32,14 +41,7 @@
 ![emule](assets/images/edonkey-emule.png)
 ---
 
-### @fa[history]@fa[history] Looking even more back...
-- Fat protocols aren’t new
-- 1999, we saw an explosion of p2p file sharing technology
-  - Gnutella (the protocol behind Limewire), 
-  - FastTrack (Kazaa), 
-  - eDonkey, and  eMule, 
-  - BitTorrent
---- 
+
 
 ### ONE YEAR HAS PASSED
 - kaj sem bral lani

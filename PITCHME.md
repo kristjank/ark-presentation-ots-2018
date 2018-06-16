@@ -14,6 +14,9 @@
 - no more public/private chains
 - web 2 in web 3
 ---
+### Current challenges in blockchain space
+- interoperability
+- out of 1600 platforms - who will survie - the ones that will be able to connect
 
 ### OPENSOURCE SOFTWARE DEVELOPMENT
 - opensource.guide

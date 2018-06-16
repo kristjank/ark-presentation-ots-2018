@@ -1,7 +1,6 @@
-## Building an open-source blockchain ecosystem with ARK
-#### <a href:"https://www.linkedin.com/in/kristjankosic/"> @fa[linkedin] Kristjan Kosic</a>
-#### <a href:"https://www.ark.io"> @fa[firefox] ARK.io</a>
-#### <a href:"https://github.com/arkecosystem"> @fa[github] GitHub</a>
+# Building an open-source blockchain ecosystem with ARK
+
+<a href="https://www.linkedin.com/in/kristjankosic/"> @fa[linkedin] Kristjan Kosic</a> <a href="https://www.ark.io"> @fa[firefox] ARK.io</a> <a href="https://github.com/arkecosystem"> @fa[github] GitHub</a>
 
 
 ---
@@ -15,7 +14,7 @@
 ---
 ### AGENDA
 - History
--
+
 ---
 ### @fa[history] Looking back...
 - Ten (10) years into **decentralisation** revolution
@@ -29,7 +28,6 @@
 
 ---?image=assets/images/edonkey-emule.png
 ---
--
 ### @fa[history]@fa[history] Looking back...
 - Fat protocols aren’t new
 - 1999, we saw an explosion of p2p file sharing technology
@@ -38,9 +36,9 @@
   - eDonkey, and  eMule
   - BitTorrent
 
---- ?image=assets/images/current-web.png&position=right&size=30% 60%
+--- ?image=assets/images/current-web.png&position=right&size=40% 70%
 ### @fa[server] Internet
-- Current generation of shared protocols:
+- Current shared protocols:
   - TCP/IP
   - HTTP/S
   - SMTP
@@ -48,32 +46,29 @@
 
 - **Produced** a lot of VALUE
 - **VALUE in form of DATA**
+[Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
 
---- ?image=assets/images/web3.png&position=right&size=30% 60%
+--- ?image=assets/images/web3.png&position=right&size=40% 70%
 ### @fa[server] Blockchain
 - Inverted relationship
 - VALUE concentrated at Protocol level
 
 
-- **"FAT" protocols and "THIN" applications.**
-
+- **"FAT"** protocols
+- **"THIN"** applications
 ---
 ---
 ### @fa[history] Looking back...
 >Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all.
 
 **We can learn and build faster than ever**.
-
-
-
-
+---
 
 ### ONE YEAR HAS PASSED
 - kaj sem bral lani
 - lanski slajdi
 - letosnja literatura (osnove bs, p2p attacks)
--
 ---
 ### WHERE ARE WE GOING?
 - new fat protocols explain

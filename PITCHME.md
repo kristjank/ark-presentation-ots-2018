@@ -17,12 +17,13 @@
 - 
 ---
 ### @fa[history] Looking back...
-- Ten (10) years into *decentralisation* revolution
+- Ten (10) years into **decentralisation** revolution
   - CyberPunks movement (Nick Szabo..)
   - Satoshi
   - Bitcoin birth
 - Thru the phase of disillusionment 
 - Experimental solutions @fa[arrow-circle-right] Complete solutions
+---
 
 ### @fa[history] Looking back...
 >Most projects will fail, but the open-source nature of the ecosystems means learnings and code will be available to all

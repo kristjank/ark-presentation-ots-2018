@@ -22,23 +22,23 @@
   - Satoshi
   - Bitcoin birth
 - Thru the phase of disillusionment (hype cycle)
-- Experimental solutions @fa[arrow-circle-right] Complete solutions
-  - 1600 cryptocurrencies
-  - <100 platforms or ecosystems
+  - Experimental solutions @fa[arrow-circle-right] Complete solutions
+    - 1600 cryptocurrencies
+    - <100 platforms or ecosystems
 
 +++?image=assets/images/edonkey-emule.png
 @title[eMule]
 +++
 ### @fa[history] @fa[history] Looking back...
 - Fat protocols aren’t new
-- 1999, we saw an explosion of p2p file sharing technology
+- 1999: explosion of p2p file sharing technology
   - Gnutella (the protocol behind Limewire)
   - FastTrack (Kazaa)
   - eDonkey, and  eMule
   - BitTorrent
 
 +++?image=assets/images/current-web.png&position=right&size=40% 70%
-### @fa[server] Internet
+### @fa[server] Internet Web 2.0
 - Current shared protocols:
   - TCP/IP
   - HTTP/S
@@ -50,7 +50,7 @@
 - DATA processed in applications
 
 +++?image=assets/images/web3.png&position=right&size=40% 70%
-### @fa[server] Blockchain
+### @fa[server] Blockchain Web 3.0
 - Inverted relationship
 - VALUE concentrated at Protocol Level
 

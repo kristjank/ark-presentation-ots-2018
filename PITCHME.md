@@ -1,4 +1,4 @@
-# Building an open-source blockchain ecosystem with ARK
+## Building an open-source blockchain ecosystem with ARK
 
 <a href="https://www.linkedin.com/in/kristjankosic/"> @fa[contact-card] Kristjan Kosic</a> <a href="https://www.ark.io"> @fa[firefox] ARK.io</a> <a href="https://github.com/arkecosystem"> @fa[github] github.com/arkecosystem</a>
 
@@ -23,8 +23,8 @@
   - Bitcoin birth
 - Thru the phase of disillusionment (hype cycle)
 - Experimental solutions @fa[arrow-circle-right] Complete solutions
-- 1600 cryptocurrencies
-- <100 platforms or ecosystems
+  - 1600 cryptocurrencies
+  - <100 platforms or ecosystems
 
 +++?image=assets/images/edonkey-emule.png
 @title[eMule]
@@ -69,7 +69,7 @@
 ### @fa[osi] Open Source Software(OSS): Wave of the Future
 - Cost reduction
 - Quality improvement
-- Quick time to market
+- Quicker time to market
 - Full ownership and control
 - Drive innovation with rapid-pace
 - No vendor lock-in
@@ -79,13 +79,12 @@
 
 +++
 ### @fa[osi] Open Source Software(OSS): Wave of the Future
-- Survey by <a href="http://www.infosysblogs.com/infosysdigital/2016/06/open_source_software_wave_of_future.html">Black Duck Software</a>
+- Survey by <a href="http://www.infosysblogs.com/infosysdigital/2016/06/open_source_software_wave_of_future.html">Black Duck Software [N: 1313]</a>
   - 78%  percent of enterprises run on open source
-  - 65% companies are contributing to open source projects 
-  - @fa[fa-git] is the overwhelming choice for versioning with 73%
-  - 
+  - 65% companies are contributing to open source projects
+  - git is the overwhelming choice for versioning with 73%
+  - 90% Open source is the engine of innovation
 
-- Open source is the engine of innovation
 +++
 
 

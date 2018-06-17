@@ -1,7 +1,10 @@
-# Building an open-source blockchain ecosystem with ARK
+### Building an open-source blockchain ecosystem with ARK
 
-<a href="https://www.linkedin.com/in/kristjankosic/"> @fa[id-card] Kristjan Kosic</a> <a href="https://www.ark.io"> @fa[firefox] ARK.io</a> <a href="https://github.com/arkecosystem"> @fa[github] github.com/arkecosystem</a>
-
+<a href="https://www.linkedin.com/in/kristjankosic/">Kristjan Kosic</a> 
+<br/>
+<a href="https://www.ark.io">@fa[firefox] ARK.io</a> 
+<br/>
+<a href="https://github.com/arkecosystem">@fa[github] github.com/arkecosystem</a>
 
 ---
 ### AGENDA
@@ -21,6 +24,7 @@
 
 +++?image=assets/images/edonkey-emule.png
 @title[eMule]
+
 +++
 ### @fa[history] @fa[history] Looking back...
 - Fat protocols aren’t new
@@ -29,30 +33,52 @@
   - FastTrack (Kazaa)
   - eDonkey, and  eMule
   - BitTorrent
+- OSS solutions
 
-+++?layout:top-left&image=assets/images/current-web.png&position=right&size=40% 70%
-### @fa[server] Internet Web 2.0
-- Current shared protocols:
-  - TCP/IP
-  - HTTP/S
-  - SMTP...
++++
+### @fa[server] FAT vs. THIN Protocols
+![FatvsThin](assets/images/ThinProtocolFatClient.jpg)
 
-- **"THIN"** protocols
-- **"FAT"** applications
-- **VALUE in form of DATA**
-- DATA processed in applications
+---?image=assets/images/github-octocat-git-programming-code-it.jpg&position=center&size=auto 100%
+@title[OSS-Intro]
 
-+++?image=assets/images/web3.png&position=right&size=40% 70%
-### @fa[server] Blockchain Web 3.0
-- Inverted relationship
-  - **"FAT"** protocols
-  - **"THIN"** applications
++++
+### Open Source Software(OSS): Wave of the Future
+- Cost reduction
+- Quality improvement
+- Quicker time to market
+- Full ownership and control
+- Drive innovation with rapid-pace
+- No vendor lock-in
+- More eyes on the code
+- Integration and collaboration
+- Community support (Live Help Desk)
 
-- VALUE concentrated at Protocol lvl.
++++
+### Open Source Software(OSS): Wave of the Future
+- Survey by <a href="http://www.infosysblogs.com/infosysdigital/2016/06/open_source_software_wave_of_future.html">Black Duck Software [N: 1313]</a>
+  - 78%  of enterprises run on open source
+  - 65% companies are contributing to open source projects
+  - 73% agree that git is the overwhelming choice for versioning
+  - 90% Open source is the engine of innovation
+
++++
+### Open Source Software(OSS): Challenges
+- Survey by <a href="http://www.infosysblogs.com/infosysdigital/2016/06/open_source_software_wave_of_future.html">Black Duck Software [N: 1313]</a>
+  - 50% of companies have no formal policy for choosing open source code
+  - 47%  have no formal process in place to track open source code
+  - 1/3 of companies have no process for identifying, tracking or remediating known open source vulnerabilities
+  - 50% of OSS project have no license defined
+
++++
+@title[CryptoCommQuote]
+>The hardest mental leap for people when they join OSS is the move from closed to open. **Code is worth almost nothing. Community is worth everything.** Anyone can fork the code. Very few people can fork a community.
+
+*Internalising that reality is just impossible for some people...*
 
 ---
 ### Current challenges in blockchain space
-- Interoperability @fa[hands-helping]
+- Interoperability
   - 1600 platforms
   - <100 ecosystems
 
@@ -66,11 +92,15 @@
 
 **We can learn and build faster than ever**.
 
+>The power of OSS and social coding.
+
 ---?image=assets/images/ark-bg.jpg&position=center&size=auto 100%&color=black
 @title[ARK]
 
-
 ---?image=assets/images/ark-connecting.png&position=center&size=auto 100%&color=black
+@title[ARK-connecting]
+
+---
 ### WHAT IS ARK?
 > Ark aims to create an entire ecosystem of linked chains by providing easy to use tools to deploy your own blockchain. 
 
@@ -80,80 +110,47 @@
 - Highly flexible and adaptable
 - DPOS Consensus Mechanism (3rd generation)
 
----?image=assets/images/daftpunkocat.gif&position=center&size=auto 100%&color=white
-@title[OSS-Intro]
-
-+++
-### @fa[osi] Open Source Software(OSS): Wave of the Future
-- Cost reduction
-- Quality improvement
-- Quicker time to market
-- Full ownership and control
-- Drive innovation with rapid-pace
-- No vendor lock-in
-- More eyes on the code
-- Integration and collaboration
-- Community support (Live Help Desk)
-
-+++
-### @fa[osi] Open Source Software(OSS): Wave of the Future
-- Survey by <a href="http://www.infosysblogs.com/infosysdigital/2016/06/open_source_software_wave_of_future.html">Black Duck Software [N: 1313]</a>
-  - 78%  of enterprises run on open source
-  - 65% companies are contributing to open source projects
-  - 73% agree that git is the overwhelming choice for versioning
-  - 90% Open source is the engine of innovation
-
-+++
-### @fa[osi] Open Source Software(OSS): Challenges
-- Survey by <a href="http://www.infosysblogs.com/infosysdigital/2016/06/open_source_software_wave_of_future.html">Black Duck Software [N: 1313]</a>
-  - 50% of companies have no formal policy for choosing open source code
-  - 47%  have no formal process in place to track open source code
-  - 1/3 of companies have no process for identifying, tracking or remediating known open source vulnerabilities
-  - 50% of OSS project have no license defined
-
-+++
-@title[CryptoCommQuote]
->The hardest mental leap for people when they join crypto is the move from closed to open. **Code is worth almost nothing. Community is worth everything.** Anyone can fork the code. Very few people can fork a community
-
-*Internalising that reality is just impossible for some people...*
-
 ---
-### HOW DO WE USE OSS TOOLS AT ARK
+#### HOW DO WE USE OSS TOOLS AT ARK
 - Streamlined and defined developing process:
   - <a href="https://docs.ark.io/docs/contributing">Contributing guidelines defined</a>
-  - <a href="https://github.com/ArkEcosystem/core/blob/master/packages/core-api/CHANGELOG.md">Keep a Change Log.</a>
+  - <a href="https://github.com/ArkEcosystem/core/blob/master/packages/core-api/CHANGELOG.md">Keep a Change Log</a>
   - <a href="https://docs.ark.io/">Clearly defined user instructions and documentation</a>
   - Defined and described dependencies
   - <a href="https://docs.ark.io/v1.0/reference">API docs generated</a>
-  - Tests defined full coverage
+  - Tests defined with full coverage
   - <a href="https://github.com/ArkEcosystem/core/pull/653">Strict and clear PR template</a>
   - Multiple people reviewing the code
+  - <a href="https://blog.ark.io/ark-github-development-bounty-113806ae9ffe">Active Bounty Program - Monthly competition</a>
 
----?image=assets/images/acf.svg&position=center&size=auto 100%
+---?image=assets/images/acflogo.png&position=center&size=80% auto&color=white
+@title[ACF]
+
+---
 ### <a href="https://arkcommunity.fund/">ARK Community.Fund
 >The goal of the ACF is to sponsor community projects benefiting the ARK Ecosystem. It can be seen as supplemental to the core development of ARK Ecosystem and will support the ideas and projects of ARK community members.
----
-
----?image=assets/images/acf.svg&position=center&size=auto 100%
-### <a href="https://arkcommunity.fund/">ARK Community.Fund
->The goal of the ACF is to sponsor community projects benefiting the ARK Ecosystem. It can be seen as supplemental to the core development of ARK Ecosystem and will support the ideas and projects of ARK community members.
----
 
 ---?image=assets/images/aces-linking-services.png&position=center&size=auto 100%&color=white
-### <a href="https://arkaces.com/">ARK-ACES
+@title[ACES]
+
 ---
+### <a href="https://arkaces.com/">ARK-ACES
+- Ark Contract Execution Services
+- Project by ARK Community members
+- The Blockchain Interoperability Platform
+- Provides protocol and tools for building blockchain service marketplace
+- Chain independent
 
-
+---
 ### ARK CORE v2 WAS RELEASED
 - why
 - what
 - modular/pool/plugins/latest standard.. with one goal..
 - bounties again
--
 
 
 ---
-### @fa[question-circle-5x]
+# @fa[question-circle]
 
 ---
 ---

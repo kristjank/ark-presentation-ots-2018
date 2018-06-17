@@ -88,7 +88,7 @@
 
 - Regulation
 - Complexity (end-users)
-- Speed of processing 
+- Speed of processing
 
 ---
 ### @fa[history] The raw truth...
@@ -325,7 +325,7 @@ Example listeners:
 - Deploy ETH contracts without holding ETH
 - Execute functions on ETH without holding ETH
 - Run an ICO (receive ETH, ARK, BTC,...)
-- Service Linking: BTC to ETH
+- Service Linking: BTC to ETH (via ARK)
 
 \*Currently there are services for ARK~ETH, ARK~BTC, ARK~PRS, ARK A~ARK B
 
@@ -344,6 +344,38 @@ Example listeners:
 The design of listeners and services enabled an option to easily link services together.
 
 ![ARK to ETH](assets/images/aces-linking-services.png)
+
+---
+
+### LET'S SETUP UP ARK TO ETH SERVICE IN 3 STEPS
+
+![yay](https://media.giphy.com/media/12UlfHpF05ielO/giphy.gif)
+
+I'll be showing you on the example of my Docker setup. Source can be found here: https://github.com/deadlock-delegate/aces-ark-eth-demo
+
+---
+
+#### Step 1: Clone ARK ~ ETH repository
+
+```
+git clone git@github.com:deadlock-delegate/aces-ark-eth-demo.git
+cd aces-ark-eth-demo/
+```
+
+---?gist=roks0n/4950d97bb197394ae8bb579a9e8c91cf&lang=Scala
+
+#### Step 2: Change settings in docker-compose.yml
+
+@[8-15]
+@[27-33]
+
+---
+
+#### Step 3: Start the project
+
+```
+docker-compose up
+```
 
 ---
 

@@ -231,6 +231,8 @@ The design of listeners and services enabled an option to easily link services t
 
 ![yay](https://media.giphy.com/media/12UlfHpF05ielO/giphy.gif)
 
+I'll be showing you on the example of my Docker setup. Source can be found here: https://github.com/deadlock-delegate/aces-ark-eth-demo
+
 ---
 
 #### Step 1: Clone ARK ~ ETH repository

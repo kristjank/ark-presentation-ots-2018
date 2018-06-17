@@ -128,7 +128,9 @@
 
 ---
 ### <a href="https://arkcommunity.fund/">ARK Community.Fund
->The goal of the ACF is to sponsor community projects benefiting the ARK Ecosystem. It can be seen as supplemental to the core development of ARK Ecosystem and will support the ideas and projects of ARK community members.
+![fundebbyACF](assets/images/acfbadge3.svg)
+
+####>The goal of the ACF is to sponsor community projects benefiting the ARK Ecosystem. It can be seen as supplemental to the core development of ARK Ecosystem and will support the ideas and projects of ARK community members.
 
 ---?image=assets/images/aces-linking-services.png&position=center&size=auto 100%&color=white
 @title[ACES]

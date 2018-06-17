@@ -32,7 +32,7 @@
   - Gnutella (the protocol behind Limewire)
   - FastTrack (Kazaa)
   - eDonkey, and  eMule
-  - BitTorrent
+  - BitTorrent a bit later
 
 <br/>
 - OSS solutions
@@ -144,6 +144,11 @@
 - Provides protocol and tools for building blockchain service marketplace
 - Chain independent
 
+---?color=white
+![ArkDeployer](assets/images/ark-deployer.png)
+
+
+
 ---?image=assets/images/aces-linking-services.png&position=center&size=auto 100%&color=white
 @title[ACES]
 
@@ -169,9 +174,12 @@
 
 
 ---
-# @fa[question-circle]
+# @fa[question-circle] Questions
+- Build your own blockchain with ARK workshop
+- Wednesday
 
----
+
+
 ---
 ---
 ---

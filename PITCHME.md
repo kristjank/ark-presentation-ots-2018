@@ -171,13 +171,13 @@ vagrant up
 @title[ARK v2 - network view]
 
 ---
-### ARK CORE v2 TOP FEATURES
+###ARK CORE v2 TOP FEATURES
+
 - Developer friendly blockchain ecosystem
 - Fully configurable DPOS core
 - <a href="https://github.com/ArkEcosystem">Client SDKs available >20 programming languages</a>
 - <a href="https://docs.ark.io/v1.0/reference">Standard API interfaces</a>
-- Modular structure
-- Plugin based system
+- <a href="https://github.com/ArkEcosystem/core#core-packages">Plugin based system</a>
 - WebHooks for blockchain events
 
 ---
@@ -237,6 +237,9 @@ vagrant up
 @[17-24](DPOS consensus mechanism properties)
 @[27-37](Static fee properties) 
 @[39-48](Dynamic fee offsets for formula calculation) 
+
+---
+### ARK CORE v2 TOP FEATURES
 
 ---
 # @fa[question-circle] Questions

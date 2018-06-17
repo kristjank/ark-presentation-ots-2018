@@ -144,7 +144,6 @@
 - Provides protocol and tools for building blockchain service marketplace
 - Chain independent
 
-
 ---?image=assets/images/aces-linking-services.png&position=center&size=auto 100%&color=white
 @title[ACES]
 

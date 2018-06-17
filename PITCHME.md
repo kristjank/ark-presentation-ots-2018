@@ -132,9 +132,6 @@
 
 >*The goal of the ACF is to sponsor community projects benefiting the ARK Ecosystem. It can be seen as supplemental to the core development of ARK Ecosystem and will support the ideas and projects of ARK community members.*
 
----?image=assets/images/aces-linking-services.png&position=center&size=auto 100%&color=white
-@title[ACES]
-
 ---
 ### <a href="https://arkaces.com/">ARK-ACES</a>
 - Ark Contract Execution Services
@@ -143,12 +140,31 @@
 - Provides protocol and tools for building blockchain service marketplace
 - Chain independent
 
+
+
+
+---?image=assets/images/aces-linking-services.png&position=center&size=auto 100%&color=white
+@title[ACES]
+
+---?image=assets/images/v2_release.png&position=center&size=auto 100%&color=white
+@title[ARK v2 title]
+
+---?image=assets/images/v2-1.png&position=center&size=auto 100%&color=white
+@title[ARK v2 - node structure]
+
+
+---?image=assets/images/ConfigurableCore.jpg&position=center&size=auto 100%&color=white
+@title[ARK v2 - network view]
+
 ---
-### ARK CORE v2 WAS RELEASED
-- why
-- what
-- modular/pool/plugins/latest standard.. with one goal..
-- bounties again
+
+### ARK CORE v2 TOP FEATURES
+- Developer friendly blockchain ecosystem
+- OpenSource
+- APIs available >20 programming languages
+- Modular structure
+- Plugin based system
+- WebHooks for blockchain events
 
 
 ---

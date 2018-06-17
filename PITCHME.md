@@ -102,7 +102,7 @@
 
 ---
 ### WHAT IS ARK?
-> Ark aims to create an entire ecosystem of linked chains by providing easy to use tools to deploy your own blockchain. 
+>*Ark aims to create an entire ecosystem of linked chains by providing easy to use tools to deploy your own blockchain.*
 
 - ARK is Open-Source [MIT License]
   - 30+ repositories
@@ -111,7 +111,7 @@
 - DPOS Consensus Mechanism (3rd generation)
 
 ---
-#### HOW DO WE USE OSS TOOLS AT ARK
+### OSS APPROACH AT ARK
 - Streamlined and defined developing process:
   - <a href="https://docs.ark.io/docs/contributing">Contributing guidelines defined</a>
   - <a href="https://github.com/ArkEcosystem/core/blob/master/packages/core-api/CHANGELOG.md">Keep a Change Log</a>
@@ -127,16 +127,16 @@
 @title[ACF]
 
 ---
-### <a href="https://arkcommunity.fund/">ARK Community.Fund
-![fundebbyACF](assets/images/acfbadge3.svg)
+### <a href="https://arkcommunity.fund/">ARKCommunity.Fund.</a>
+![fundebbyACF](assets/images/acfbadge-3.svg)
 
-####>The goal of the ACF is to sponsor community projects benefiting the ARK Ecosystem. It can be seen as supplemental to the core development of ARK Ecosystem and will support the ideas and projects of ARK community members.
+>*The goal of the ACF is to sponsor community projects benefiting the ARK Ecosystem. It can be seen as supplemental to the core development of ARK Ecosystem and will support the ideas and projects of ARK community members.*
 
 ---?image=assets/images/aces-linking-services.png&position=center&size=auto 100%&color=white
 @title[ACES]
 
 ---
-### <a href="https://arkaces.com/">ARK-ACES
+### <a href="https://arkaces.com/">ARK-ACES</a>
 - Ark Contract Execution Services
 - Project by ARK Community members
 - The Blockchain Interoperability Platform

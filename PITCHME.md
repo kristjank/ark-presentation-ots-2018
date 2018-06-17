@@ -114,7 +114,18 @@
 - Highly flexible and adaptable
 - DPOS Consensus Mechanism (3rd generation)
 
+---?color=white
+![ArkDeployer](assets/images/ark-deployer.png)
+```bash
+cd ~ && git clone https://github.com/ArkEcosystem/ark-deployer.git 
+&& cd ark-deployer
+
+vagrant up
+```
+<a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">Detailed setup guide</a>
+
 ---
+
 ### OSS APPROACH AT ARK
 - Streamlined and defined developing process:
   - <a href="https://docs.ark.io/docs/contributing">Contributing guidelines defined</a>
@@ -144,9 +155,6 @@
 - Provides protocol and tools for building blockchain service marketplace
 - Chain independent
 
----?color=white
-![ArkDeployer](assets/images/ark-deployer.png)
-
 
 
 ---?image=assets/images/aces-linking-services.png&position=center&size=auto 100%&color=white
@@ -172,6 +180,71 @@
 - Plugin based system
 - WebHooks for blockchain events
 
+---?gist=8434237e475b5b9c91f5991b9f2e25ef&lang=json
+```json
+{
+  "name": "devnet",
+  "messagePrefix": "DARK message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 30,
+  "nethash": "578e820911f24e039733b45e4882b73e301f813a0d2c31330dafda84534ffa23",
+  "wif": 170,
+  "client": {
+    "token": "DARK",
+    "symbol": "DѦ",
+    "explorer": "https://dexplorer.ark.io"
+  },
+  "constants": [{
+    "height": 1,
+    "reward": 0,
+    "activeDelegates": 51,
+    "blocktime": 8,
+    "block": {
+      "version": 0,
+      "maxTransactions": 50,
+      "maxPayload": 2097152
+    },
+    "epoch": "2017-03-21T13:00:00.000Z",
+    "fees": {
+      "dynamic" : false,
+      "transfer": 10000000,
+      "secondSignature": 500000000,
+      "delegateRegistration": 2500000000,
+      "vote": 100000000,
+      "multiSignature": 500000000,
+      "ipfs": 0,
+      "timelockTransfer": 0,
+      "multiPayment": 0,
+      "delegateResignation": 0
+    },
+    "dynamicOffsets": {
+      "transfer": 100,
+      "secondSignature": 250,
+      "delegateRegistration": 500,
+      "vote": 100,
+      "multiSignature": 500,
+      "ipfs": 250,
+      "timelockTransfer": 500,
+      "multiPayment": 500,
+      "delegateResignation": 500
+    }
+  }, {
+    "height": 75600,
+    "reward": 200000000
+  }],
+  "exceptions": {
+    "49eb0b459075bd1d4c6231204308f66f233c04fe250263cdf7625623f99db4d4": true,
+    "6d2e9f554a0c793eb5364ef049453044e6a1333e4242905b8c7264646b544215": true
+  }
+}
+```
+@[17-24](DPOS consensus properties)
+@[27-37](Static fee properties) 
+@[39-48](Dynamic fee offsets) 
+@[57-62](Delegate RDD[AWSTask] to AWS Lambda)
 
 ---
 # @fa[question-circle] Questions

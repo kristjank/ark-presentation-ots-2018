@@ -3,3 +3,22 @@
   box-shadow: none;
 }
 
+
+body {
+  background: #000;
+  background-color: #000;
+}
+
+html:-webkit-full-screen-ancestor {
+  background: #000;
+  background-color: #000;
+}
+
+html:-moz-full-screen-ancestor {
+  background: #000;
+  background-color: #000;
+}
+
+.reveal pre {
+  box-shadow : none;
+}

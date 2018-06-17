@@ -82,7 +82,7 @@
 
 ---
 ### Current challenges in blockchain space
-- Interoperability
+- Interoperability/Integration
   - 1600 platforms
   - <100 ecosystems
 
@@ -109,7 +109,7 @@
 >*Ark aims to create an entire ecosystem of linked chains by providing easy to use tools to deploy your own blockchain.*
 
 - ARK is Open-Source [MIT License]
-  - 30+ repositories
+  - 50+ repositories
   - 20000+ commits
 - Highly flexible and adaptable
 - DPOS Consensus Mechanism (3rd generation)
@@ -145,8 +145,6 @@
 - Chain independent
 
 
-
-
 ---?image=assets/images/aces-linking-services.png&position=center&size=auto 100%&color=white
 @title[ACES]
 
@@ -163,9 +161,9 @@
 ---
 ### ARK CORE v2 TOP FEATURES
 - Developer friendly blockchain ecosystem
-- OpenSource
-- Client SDKs available >20 programming languages
-- Standard API interfaces
+- Fully configurable DPOS core
+- <a href="https://github.com/ArkEcosystem">Client SDKs available >20 programming languages</a>
+- <a href="https://docs.ark.io/v1.0/reference">Standard API interfaces</a>
 - Modular structure
 - Plugin based system
 - WebHooks for blockchain events
@@ -176,7 +174,10 @@
 
 ---
 ---
-#### Wednesday Workshop - How to build your own blockchain?
+---
+---
+### Blockchain Workshop - How to build your own blockchain?
+
 
 
 --- 

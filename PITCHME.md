@@ -33,7 +33,11 @@
   - FastTrack (Kazaa)
   - eDonkey, and  eMule
   - BitTorrent
+
+<br/>
 - OSS solutions
+- Distributed p2p systems
+- No value transfer
 
 +++
 ### @fa[server] FAT vs. THIN Protocols
@@ -157,11 +161,11 @@
 @title[ARK v2 - network view]
 
 ---
-
 ### ARK CORE v2 TOP FEATURES
 - Developer friendly blockchain ecosystem
 - OpenSource
-- APIs available >20 programming languages
+- Client SDKs available >20 programming languages
+- Standard API interfaces
 - Modular structure
 - Plugin based system
 - WebHooks for blockchain events

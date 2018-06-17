@@ -1,8 +1,3 @@
-.reveal section img {
-  border: 0;
-  box-shadow: none;
-}
-
 /*
  * GitPitch Slideshow Custom CSS Styling
  *
@@ -10,7 +5,7 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
- body {
+body {
   background: #000;
   background-color: #000;
 }
@@ -33,7 +28,7 @@ html:-moz-full-screen-ancestor {
 .reveal pre code {
   font-size: 1.2em;
   line-height: 1.2;
-  max-height: 50vh !important;
+  max-height: 60vh !important;
   opacity: 0.95;
   border-radius: 10px;
 }
@@ -52,6 +47,7 @@ html:-moz-full-screen-ancestor {
   padding: 4px 15px;
   opacity: 0.75 !important;
   border-radius: 15px;
+  display: none;
 }
 .reveal div.left {
     float: left;

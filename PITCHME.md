@@ -180,7 +180,7 @@ vagrant up
 - Plugin based system
 - WebHooks for blockchain events
 
----?gist=8434237e475b5b9c91f5991b9f2e25ef&lang=json
+---
 ```json
 {
   "name": "devnet",
@@ -231,20 +231,12 @@ vagrant up
       "multiPayment": 500,
       "delegateResignation": 500
     }
-  }, {
-    "height": 75600,
-    "reward": 200000000
-  }],
-  "exceptions": {
-    "49eb0b459075bd1d4c6231204308f66f233c04fe250263cdf7625623f99db4d4": true,
-    "6d2e9f554a0c793eb5364ef049453044e6a1333e4242905b8c7264646b544215": true
   }
 }
 ```
-@[17-24](DPOS consensus properties)
+@[17-24](DPOS consensus mechanism properties)
 @[27-37](Static fee properties) 
-@[39-48](Dynamic fee offsets) 
-@[57-62](Delegate RDD[AWSTask] to AWS Lambda)
+@[39-48](Dynamic fee offsets for formula calculation) 
 
 ---
 # @fa[question-circle] Questions

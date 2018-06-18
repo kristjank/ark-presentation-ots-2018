@@ -106,12 +106,10 @@
 - Complexity (end-users)
 - Speed of processing
 
----
-
----?image=assets/images/ark-bg.jpg&position=center&size=auto 100%&color=black
+---?image=assets/images/ark-bg.jpg&position=center&size=auto 100%
 @title[ARK]
 
----?image=assets/images/ark-connecting.png&position=center&size=auto 100%&color=black
+---?image=assets/images/ark-connecting.png&position=center&size=auto 100%
 @title[ARK-connecting]
 
 ---

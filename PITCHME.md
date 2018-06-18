@@ -1,6 +1,6 @@
 ### Building an open-source blockchain ecosystem with ARK
 
-<a href="https://www.linkedin.com/in/kristjankosic/">Kristjan Kosic</a> 
+<a href="https://www.linkedin.com/in/kristjankosic/">@fa[address-card]Kristjan Kosic</a> 
 <br/>
 <a href="https://www.ark.io">@fa[firefox] ARK.io</a> 
 <br/>
@@ -87,7 +87,7 @@
 
 +++
 @title[CryptoCommQuote]
->The hardest mental leap for people when they join OSS is the move from closed to open. **Code is worth almost nothing. Community is worth everything.** Anyone can fork the code. Very few people can fork a community.
+>@fa[quote-left] The hardest mental leap for people when they join OSS is the move from closed to open. **Code is worth almost nothing. Community is worth everything.** Anyone can fork the code. Very few people can fork a community. @fa[quote-right]
 
 *Internalising that reality is just impossible for some people...*
 
@@ -108,9 +108,9 @@
 ---
 
 ### WHAT IS ARK?
->*Ark aims to create an entire ecosystem of linked chains by providing easy to use tools to deploy your own blockchain.*
+>@fa[quote-left] Ark aims to create an entire ecosystem of linked chains by providing easy to use tools to deploy your own blockchain.@fa[quote-right]
 
-- ARK is Open-Source [MIT License]
+- ARK is Open-Source by design [MIT License]
   - 50+ repositories
   - 20000+ commits
 - Highly flexible and adaptable
@@ -126,12 +126,18 @@
 - <a href="https://www.ark.io/team">Distributed team</a>
 
 ---
-### Challenge
 </br>
-## REGULATION
+</br>
+</br>
 
-# @fa[check-circle]
-  
+<div align="center">
+  <font size="14 em">
+  <strong>REGULATION</strong>
+  </font>
+  </br>
+  </br>
+  @fa[check-circle fa-3x]
+</div>
 ---
 
 ### OSS APPROACH AT ARK
@@ -155,7 +161,7 @@
 >*The goal of the ACF is to sponsor community projects benefiting the ARK Ecosystem. It can be seen as supplemental to the core development of ARK Ecosystem and will support the ideas and projects of ARK community members.*
 
 ---
-### <a href="https://arkaces.com/">ARK Interoperability with ACES</a>
+### <a href="https://arkaces.com/">Interoperability with ACES</a>
 - Ark Contract Execution Services
 - Project by ARK Community members
 - The Blockchain Interoperability Platform
@@ -170,23 +176,33 @@ Both blockchains are able to exchange information and value without any need for
 
 --- 
 ### Sidechain
-A sidechain is an own chain running on an own network but tightly coupled and verified by the mainnet governance.
+>A sidechain is an own chain running on an own network but tightly coupled and verified by the mainnet governance.
 
->Put simply, sidechaining is any mechanism that allows tokens from one blockchain to be securely used within a completely separate blockchain but still moved back to the original chain if necessary.
+Put simply, sidechaining is any mechanism that allows tokens from one blockchain to be securely used within a completely separate blockchain but still moved back to the original chain if necessary.
+
+--- 
+### Smartbridge
+>SmartBridge is the ability to connect and communicate between blockchains. 
+
+Ark’s SmartBridge communicates between the blockchains using a special data section called Vendor Fields and special Encoded Listener nodes that comb through this data for tasks that it can perform.
 
 ---?image=assets/images/aces-linking-services.png&position=center&size=auto 100%&color=white
 @title[ACES]
 
+
 ---
-### Challenge
 </br>
-## INTEROPERABILITY
+</br>
+</br>
 
-# @fa[check-circle]
-
-### solved for bridgechains
-  
----
+<div align="center">
+  <font size="14 em">
+  <strong>INTEROPERABILITY</strong>
+  </font>
+  </br>
+  </br>
+  @fa[check-circle fa-3x]
+</div>
 
 ---?color=white
 ![ArkDeployer](assets/images/ark-deployer.png)

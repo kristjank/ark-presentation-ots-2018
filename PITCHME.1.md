@@ -55,7 +55,7 @@
 - Distributed p2p systems
 - No value transfer
 
-+++
++++?image=assets/images/
 ### @fa[server] FAT vs. THIN Protocols
 ![FatvsThin](assets/images/flatthin.png)
 

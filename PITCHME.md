@@ -319,8 +319,17 @@ vagrant up
 ---
 ---
 ## Blockchain Workshop - How to build your own blockchain?
----
+---?color=white
+![ArkDeployer](assets/images/ark-deployer.png)
+```bash
+cd ~ && git clone https://github.com/ArkEcosystem/ark-deployer.git 
+&& cd ark-deployer
 
+vagrant up
+```
+<a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">More detailed setup guide</a>
+
+---
 ### ACES
 
 - Ark Contract Execution Services

@@ -64,7 +64,7 @@
   - 78%  of enterprises run on open source
   - 65% companies are contributing to open source projects
   - 73% agree that git is the overwhelming choice for versioning
-  - 90% Open source is the engine of innovation
+  - 90% agree that OSS is the engine of innovation
 
 +++
 ### Open Source Software(OSS): Challenges
@@ -83,8 +83,7 @@
 ---
 ### Current challenges in blockchain space
 - Interoperability/Integration
-  - 1600 platforms
-  - <100 ecosystems
+  - standalone environments
 
 - Regulation
 - Complexity (end-users)
@@ -114,15 +113,15 @@
 - Highly flexible and adaptable
 - DPOS Consensus Mechanism (3rd generation)
 
----?color=white
-![ArkDeployer](assets/images/ark-deployer.png)
-```bash
-cd ~ && git clone https://github.com/ArkEcosystem/ark-deployer.git 
-&& cd ark-deployer
+---
+#### Decentralized and incorporated in FRANCE
+![SCIC](assets/images/scic.png)
+</br>
+- <a href="https://blog.ark.io/ark-creates-a-unique-business-entity-827c488c7fb8">SCIC - Cooperative Society of Collective Interest </a>
+  - new legal from to address crypto world
+- 26 board members and founders
+- <a href="https://www.ark.io/team">Distributed team</a>
 
-vagrant up
-```
-<a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">Detailed setup guide</a>
 
 ---
 
@@ -155,17 +154,24 @@ vagrant up
 - Provides protocol and tools for building blockchain service marketplace
 - Chain independent
 
-
-
 ---?image=assets/images/aces-linking-services.png&position=center&size=auto 100%&color=white
 @title[ACES]
+
+---?color=white
+![ArkDeployer](assets/images/ark-deployer.png)
+```bash
+cd ~ && git clone https://github.com/ArkEcosystem/ark-deployer.git 
+&& cd ark-deployer
+
+vagrant up
+```
+<a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">Detailed setup guide</a>
 
 ---?image=assets/images/v2_release.png&position=center&size=auto 100%&color=white
 @title[ARK v2 title]
 
 ---?image=assets/images/v2-1.png&position=center&size=auto 100%&color=white
 @title[ARK v2 - node structure]
-
 
 ---?image=assets/images/ConfigurableCore.jpg&position=center&size=auto 100%&color=white
 @title[ARK v2 - network view]

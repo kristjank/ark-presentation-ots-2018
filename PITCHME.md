@@ -57,7 +57,7 @@
 
 +++
 ### @fa[server] FAT vs. THIN Protocols
-![FatvsThin](assets/images/ThinProtocolFatClient.jpg)
+![FatvsThin](assets/images/flatthin.png)
 
 ---?image=assets/images/github-octocat-git-programming-code-it.jpg&position=center&size=auto 100%
 @title[OSS-Intro]
@@ -212,8 +212,8 @@ Ark’s SmartBridge communicates between the blockchains using a special data se
 ---?color=white
 ![ArkDeployer](assets/images/ark-deployer.png)
 ```bash
-cd ~ && git clone https://github.com/ArkEcosystem/ark-deployer.git
-&& cd ark-deployer
+git clone https://github.com/ArkEcosystem/ark-deployer.git 
+cd ark-deployer
 
 vagrant up
 ```
@@ -229,13 +229,15 @@ vagrant up
 @title[ARK v2 - network view]
 
 ---
-###ARK CORE v2 TOP FEATURES
+### ARK CORE v2 TOP FEATURES
 - Developer friendly blockchain ecosystem
 - Fully configurable DPOS core
 - <a href="https://github.com/ArkEcosystem">Client SDKs available >20 programming languages</a>
 - <a href="https://docs.ark.io/v1.0/reference">Standard API interfaces</a>
 - <a href="https://github.com/ArkEcosystem/core#core-packages">Plugin based system</a>
 - WebHooks for blockchain events
+- Dynamic fees via AIP 11
+- Fully backwards compatible
 
 ---
 ```json
@@ -296,9 +298,6 @@ vagrant up
 @[39-48](Dynamic fee offsets for formula calculation)
 
 ---
-### ARK CORE v2 TOP FEATURES
-
----
 ### The raw truth...
 >Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all.
 
@@ -318,12 +317,18 @@ vagrant up
 ---
 ---
 ---
-### Blockchain Workshop - How to build your own blockchain?
+## Blockchain Workshop - How to build your own blockchain?
+---?color=white
+![ArkDeployer](assets/images/ark-deployer.png)
+```bash
+git clone https://github.com/ArkEcosystem/ark-deployer.git 
+cd ark-deployer
 
-
+vagrant up
+```
+<a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">More detailed setup guide</a>
 
 ---
-
 ### ACES
 
 - Ark Contract Execution Services

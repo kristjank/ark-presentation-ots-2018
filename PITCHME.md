@@ -319,8 +319,8 @@ vagrant up
 ---?color=white
 ![ArkDeployer](assets/images/ark-deployer.png)
 ```bash
-cd ~ && git clone https://github.com/ArkEcosystem/ark-deployer.git 
-&& cd ark-deployer
+git clone https://github.com/ArkEcosystem/ark-deployer.git 
+cd ark-deployer
 
 vagrant up
 ```

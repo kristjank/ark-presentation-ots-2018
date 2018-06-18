@@ -239,6 +239,7 @@ vagrant up
 - Fully backwards compatible
 
 ---
+### DPoS configurable core
 ```json
 {
   "name": "devnet",
@@ -297,11 +298,13 @@ vagrant up
 @[39-48](Dynamic fee offsets for formula calculation)
 
 ---
+### New Plugin registration
 ```javascript
 {
   "name": "@vendor/your-plugin-name",
   "description": "This plugin provides X for ARK Core 2.0",
-
+}
+{
   'use strict'
   const listener = require('./listener')
   const Twilio = require('./twilio')
@@ -312,8 +315,8 @@ vagrant up
       logger.info('[Monitor] Waiting for Missed Blocks')
       listener.setUp(options, new Twilio(options.twilio))
     }
-
-
+}
+{
   module.exports = {
     '@arkecosystem/core-event-emitter': {},
     '@arkecosystem/core-config': {},
@@ -332,17 +335,20 @@ vagrant up
 }
 ```
 @[2-3](Plugin name)
-@[5-15](Plugin setup)
-@[21-32](Registration of plugin in the plugins.json network setup)
+@[6-15](Plugin setup)
+@[22-32](Registration of plugin in the plugins.json network setup)
 
 ---
+### New Plugin registration
 ```bash
 bash
 git clone https://github.com/ArkEcosystem/core-plugin-skeleton your-plugin-name
 cd your-plugin-name
+
 yarn install
 ```
 ---
+
 ### The raw truth...
 >Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all.
 

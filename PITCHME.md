@@ -318,10 +318,7 @@ vagrant up
 ---
 ---
 ---
-### Blockchain Workshop - How to build your own blockchain?
-
-
-
+## Blockchain Workshop - How to build your own blockchain?
 ---
 
 ### ACES

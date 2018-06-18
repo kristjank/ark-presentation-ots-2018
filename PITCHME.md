@@ -229,7 +229,7 @@ vagrant up
 @title[ARK v2 - network view]
 
 ---
-###ARK CORE v2 TOP FEATURES
+### ARK CORE v2 TOP FEATURES
 - Developer friendly blockchain ecosystem
 - Fully configurable DPOS core
 - <a href="https://github.com/ArkEcosystem">Client SDKs available >20 programming languages</a>

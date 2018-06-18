@@ -57,7 +57,7 @@
 
 +++
 ### @fa[server] FAT vs. THIN Protocols
-![FatvsThin](assets/images/ThinProtocolFatClient.jpg)
+![FatvsThin](assets/images/flatthin.png)
 
 ---?image=assets/images/github-octocat-git-programming-code-it.jpg&position=center&size=auto 100%
 @title[OSS-Intro]

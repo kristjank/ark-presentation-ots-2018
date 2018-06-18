@@ -21,6 +21,13 @@ html:-moz-full-screen-ancestor {
   background-color: #000;
 }
 
+
+.reveal p img {
+    margin: auto;
+    display: block;
+    width: 70%;
+}
+
 .reveal pre {
   width: 100%;
   box-shadow : none;
@@ -32,6 +39,9 @@ html:-moz-full-screen-ancestor {
   max-height: 50vh !important;
   opacity: 0.95;
   border-radius: 10px;
+}
+.reveal pre code.lang-yaml {
+  max-height: 80vh !important;
 }
 
 .reveal .slides section .code-presenting-annotation {
@@ -48,6 +58,9 @@ html:-moz-full-screen-ancestor {
   padding: 4px 15px;
   opacity: 0.75 !important;
   border-radius: 15px;
+}
+.reveal p.annotation {
+    font-size: 0.7em;
 }
 .reveal div.left {
     float: left;
@@ -80,5 +93,4 @@ html:-moz-full-screen-ancestor {
 .gp-contact { font-size : 1.4em; }
 
 .gp-download { margin-left: 10px; }
-
 

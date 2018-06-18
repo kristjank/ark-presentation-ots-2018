@@ -106,6 +106,10 @@
 - Complexity (end-users)
 - Speed of processing
 
+---
+<img src="assets/images/logo.png" alt="drawing" width="305px" border="0">
+<img src="assets/images/text.png" alt="drawing" width="305px" border="0">
+
 ---?image=assets/images/ark-bg.jpg&position=center&size=auto 100%
 @title[ARK]
 
@@ -134,16 +138,15 @@
 ---
 
 ### OSS APPROACH AT ARK
-- Streamlined and defined developing process:
-  - <a href="https://docs.ark.io/docs/contributing">Contributing guidelines defined</a>
-  - <a href="https://github.com/ArkEcosystem/core/blob/master/packages/core-api/CHANGELOG.md">Keep a Change Log</a>
-  - <a href="https://docs.ark.io/">Clearly defined user instructions and documentation</a>
-  - Defined and described dependencies
-  - <a href="https://docs.ark.io/v1.0/reference">API docs generated</a>
-  - Tests defined with full coverage
-  - <a href="https://github.com/ArkEcosystem/core/pull/653">Strict and clear PR template</a>
-  - Multiple people reviewing the code
-  - <a href="https://blog.ark.io/ark-github-development-bounty-113806ae9ffe">Active Bounty Program - Monthly competition</a>
+- <a href="https://docs.ark.io/docs/contributing">Contributing guidelines defined</a>
+- <a href="https://github.com/ArkEcosystem/core/blob/master/packages/core-api/CHANGELOG.md">Keep a Change Log</a>
+- <a href="https://docs.ark.io/">Clearly defined user instructions and documentation</a>
+- Defined and described dependencies
+- <a href="https://docs.ark.io/v1.0/reference">API docs generated</a>
+- Tests defined with full coverage
+- <a href="https://github.com/ArkEcosystem/core/pull/653">Strict and clear PR template</a>
+- Multiple people reviewing the code
+- <a href="https://blog.ark.io/ark-github-development-bounty-113806ae9ffe">Active Bounty Program - Monthly competition</a>
 
 ---?image=assets/images/acflogo.png&position=center&size=80% auto&color=white
 @title[ACF]

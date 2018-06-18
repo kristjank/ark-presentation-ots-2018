@@ -1,7 +1,3 @@
-.reveal section img {
-  border: 0;
-  box-shadow: none;
-}
 
 /*
  * GitPitch Slideshow Custom CSS Styling
@@ -10,7 +6,7 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
- body {
+body {
   background: #000;
   background-color: #000;
 }
@@ -69,14 +65,7 @@ html:-moz-full-screen-ancestor {
     font-size: 0.5em;
 }
 
-#gp-logo img {
-  max-height: 2em;
-  max-width: none;
+.reveal section img {
+  border: 0;
+  box-shadow: none;
 }
-
-.gp-tip { font-size : 1.5em; }
-
-.gp-contact { font-size : 1.4em; }
-
-.gp-download { margin-left: 10px; }
-

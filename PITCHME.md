@@ -27,6 +27,12 @@
 
 +++
 ### @fa[history] @fa[history] Looking back...
+- David Chaum introduced digital cash as a research topic [1983]
+  - central server to prevent double spending (SPV)
+- Central servers == Achilles’ heel of digital cash [1999]
+
++++
+### @fa[history] @fa[history] Looking back...
 - Fat protocols aren’t new
 - 1999: explosion of p2p file sharing technology
   - Gnutella (the protocol behind Limewire)
@@ -81,21 +87,25 @@
 *Internalising that reality is just impossible for some people...*
 
 ---
-### Current challenges in blockchain space
-- Interoperability/Integration
-  - standalone environments
-
-- Regulation
-- Complexity (end-users)
-- Speed of processing 
-
----
 ### @fa[history] The raw truth...
 >Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all.
 
 **We can learn and build faster than ever**.
 
 >The power of OSS and social coding.
+
+---
+### Current challenges in blockchain space
+- Interoperability/Integration
+  - standalone environments
+  - sandboxed blockchains
+  - low usability
+
+- Ease of Use (developer friendly)
+- Regulation
+- Complexity (end-users)
+- Speed of processing 
+---
 
 ---?image=assets/images/ark-bg.jpg&position=center&size=auto 100%&color=black
 @title[ARK]
@@ -121,8 +131,7 @@
   - new legal from to address crypto world
 - 26 board members and founders
 - <a href="https://www.ark.io/team">Distributed team</a>
-
-
+  
 ---
 
 ### OSS APPROACH AT ARK

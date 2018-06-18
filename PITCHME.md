@@ -1,4 +1,5 @@
 ### Building an open-source blockchain ecosystem with ARK
+<br/>
 
 <a href="https://www.linkedin.com/in/kristjankosic/">@fa[address-card]Kristjan Kosic</a>
 <br/>
@@ -45,15 +46,12 @@
 ### @fa[history] @fa[history] Looking back...
 - Fat protocols aren’t new
 - 1999: explosion of p2p file sharing technology
-  - Gnutella (the protocol behind Limewire)
-  - FastTrack (Kazaa)
-  - eDonkey, and  eMule
-  - BitTorrent a bit later
+  - Gnutella (Limewire), FastTrack (Kazaa), eDonkey, and  eMule
 
-<br/>
-- OSS solutions
-- Distributed p2p systems
-- No value transfer
+- ALL where:
+  - OSS solutions
+  - Distributed p2p systems
+  - No value transfer
 
 +++?image=assets/images/flatthin_white.png
 @title[flaththin comparisson]
@@ -123,7 +121,8 @@
 ---
 #### Decentralized and incorporated in FRANCE
 ![SCIC](assets/images/scic.png)
-</br>
+<br/>
+<br/>
 - <a href="https://blog.ark.io/ark-creates-a-unique-business-entity-827c488c7fb8">SCIC - Cooperative Society of Collective Interest </a>
   - new legal from to address crypto world
 - 26 board members and founders
@@ -160,9 +159,10 @@
 
 ---
 ### <a href="https://arkcommunity.fund/">ARKCommunity.Fund.</a>
+>*The goal of the ACF is to sponsor community projects benefiting the ARK Ecosystem. It can be seen as supplemental to the core development of ARK Ecosystem and will support the ideas and projects of ARK community members.*
+
 ![fundebbyACF](assets/images/acfbadge-3.svg)
 
->*The goal of the ACF is to sponsor community projects benefiting the ARK Ecosystem. It can be seen as supplemental to the core development of ARK Ecosystem and will support the ideas and projects of ARK community members.*
 
 ---
 ### <a href="https://arkaces.com/">Interoperability with ACES</a>

@@ -212,8 +212,8 @@ Ark’s SmartBridge communicates between the blockchains using a special data se
 ---?color=white
 ![ArkDeployer](assets/images/ark-deployer.png)
 ```bash
-cd ~ && git clone https://github.com/ArkEcosystem/ark-deployer.git 
-&& cd ark-deployer
+git clone https://github.com/ArkEcosystem/ark-deployer.git 
+cd ark-deployer
 
 vagrant up
 ```
@@ -294,9 +294,6 @@ vagrant up
 @[17-24](DPOS consensus mechanism properties)
 @[27-37](Static fee properties) 
 @[39-48](Dynamic fee offsets for formula calculation) 
-
----
-### ARK CORE v2 TOP FEATURES
 
 ---
 ### The raw truth...

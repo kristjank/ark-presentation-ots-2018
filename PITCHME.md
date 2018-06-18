@@ -212,7 +212,7 @@ cd ~ && git clone https://github.com/ArkEcosystem/ark-deployer.git
 
 vagrant up
 ```
-<a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">Detailed setup guide</a>
+<a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">More detailed setup guide</a>
 
 ---?image=assets/images/v2_release.png&position=center&size=auto 100%&color=white
 @title[ARK v2 title]
@@ -301,12 +301,14 @@ vagrant up
 
 >The power of OSS and social coding.
 
-
 ---
 # @fa[question-circle] Questions
 - Build your own blockchain with ARK workshop
-- Wednesday
 
+- ARK Deployer (own chain)
+- v2 Overview
+- Custom plugin development
+- ARK ACES Demo
 
 
 ---

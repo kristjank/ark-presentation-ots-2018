@@ -69,3 +69,16 @@ html:-moz-full-screen-ancestor {
   border: 0;
   box-shadow: none;
 }
+
+#gp-logo img {
+  max-height: 4em;
+  max-width: none;
+}
+
+.gp-tip { font-size : 1.5em; }
+
+.gp-contact { font-size : 1.4em; }
+
+.gp-download { margin-left: 10px; }
+
+

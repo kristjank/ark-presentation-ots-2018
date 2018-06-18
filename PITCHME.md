@@ -236,6 +236,8 @@ vagrant up
 - <a href="https://docs.ark.io/v1.0/reference">Standard API interfaces</a>
 - <a href="https://github.com/ArkEcosystem/core#core-packages">Plugin based system</a>
 - WebHooks for blockchain events
+- Dynamic fees via AIP 11
+- Fully backwards compatible
 
 ---
 ```json

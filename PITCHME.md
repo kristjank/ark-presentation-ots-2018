@@ -106,11 +106,8 @@
 - Complexity (end-users)
 - Speed of processing
 
----
-<img src="assets/images/logo.png" alt="drawing" width="305px" border="0">
-<img src="assets/images/text.png" alt="drawing" width="305px" border="0">
 
----?image=assets/images/ark-bg.jpg&position=center&size=auto 100%
+---?image=assets/images/background.png&position=center&size=auto 100%
 @title[ARK]
 
 ---?image=assets/images/ark-connecting.png&position=center&size=auto 100%

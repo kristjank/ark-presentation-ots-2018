@@ -22,14 +22,19 @@
     - 1600 cryptocurrencies
     - <100 platforms or ecosystems
 
++++
+### @fa[history] @fa[history] @fa[history] Looking back...
+- David Chaum introduced digital cash as a research topic [1983]
+  - central server to prevent double spending (SPV)
+  
+</br>
+
+- Central servers === Achilles’ heel of digital cash [1999]
+
+
 +++?image=assets/images/edonkey-emule.png
 @title[eMule]
 
-+++
-### @fa[history] @fa[history] Looking back...
-- David Chaum introduced digital cash as a research topic [1983]
-  - central server to prevent double spending (SPV)
-- Central servers == Achilles’ heel of digital cash [1999]
 
 +++
 ### @fa[history] @fa[history] Looking back...
@@ -87,14 +92,6 @@
 *Internalising that reality is just impossible for some people...*
 
 ---
-### @fa[history] The raw truth...
->Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all.
-
-**We can learn and build faster than ever**.
-
->The power of OSS and social coding.
-
----
 ### Current challenges in blockchain space
 - Interoperability/Integration
   - standalone environments
@@ -106,14 +103,10 @@
 - Complexity (end-users)
 - Speed of processing
 
-
 ---?image=assets/images/background.png&position=center&size=auto 100%
 @title[ARK]
-
----?image=assets/images/ark-connecting.png&position=center&size=auto 100%
-@title[ARK-connecting]
-
 ---
+
 ### WHAT IS ARK?
 >*Ark aims to create an entire ecosystem of linked chains by providing easy to use tools to deploy your own blockchain.*
 
@@ -131,6 +124,13 @@
   - new legal from to address crypto world
 - 26 board members and founders
 - <a href="https://www.ark.io/team">Distributed team</a>
+
+---
+### Challenge
+</br>
+## REGULATION
+
+# @fa[check-circle]
   
 ---
 
@@ -155,15 +155,38 @@
 >*The goal of the ACF is to sponsor community projects benefiting the ARK Ecosystem. It can be seen as supplemental to the core development of ARK Ecosystem and will support the ideas and projects of ARK community members.*
 
 ---
-### <a href="https://arkaces.com/">ARK-ACES</a>
+### <a href="https://arkaces.com/">ARK Interoperability with ACES</a>
 - Ark Contract Execution Services
 - Project by ARK Community members
 - The Blockchain Interoperability Platform
 - Provides protocol and tools for building blockchain service marketplace
 - Chain independent
 
+--- 
+### Bridgechain
+>Bridgechain is natively connected with the Mainnet on launch. Both code bases of the Ark Mainnet and the Ark Bridgechain allow interoperability between the chains. 
+
+Both blockchains are able to exchange information and value without any need for additional services.
+
+--- 
+### Sidechain
+A sidechain is an own chain running on an own network but tightly coupled and verified by the mainnet governance.
+
+>Put simply, sidechaining is any mechanism that allows tokens from one blockchain to be securely used within a completely separate blockchain but still moved back to the original chain if necessary.
+
 ---?image=assets/images/aces-linking-services.png&position=center&size=auto 100%&color=white
 @title[ACES]
+
+---
+### Challenge
+</br>
+## INTEROPERABILITY
+
+# @fa[check-circle]
+
+### solved for bridgechains
+  
+---
 
 ---?color=white
 ![ArkDeployer](assets/images/ark-deployer.png)
@@ -186,7 +209,6 @@ vagrant up
 
 ---
 ###ARK CORE v2 TOP FEATURES
-
 - Developer friendly blockchain ecosystem
 - Fully configurable DPOS core
 - <a href="https://github.com/ArkEcosystem">Client SDKs available >20 programming languages</a>
@@ -254,6 +276,15 @@ vagrant up
 
 ---
 ### ARK CORE v2 TOP FEATURES
+
+---
+### The raw truth...
+>Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all.
+
+**We can learn and build faster than ever**.
+
+>The power of OSS and social coding.
+
 
 ---
 # @fa[question-circle] Questions

@@ -309,11 +309,10 @@ vagrant up
 ---
 # @fa[question-circle] Questions
 - Build your own blockchain with ARK workshop
-
-- ARK Deployer (own chain)
-- v2 Overview
-- Custom plugin development
-- ARK ACES Demo
+  - ARK Deployer (own chain)
+  - v2 Overview
+  - Custom plugin development
+  - ARK ACES Demo
 
 
 ---
@@ -323,7 +322,7 @@ vagrant up
 
 
 
---- 
+---
 
 ### ACES
 
@@ -395,10 +394,10 @@ Example listeners:
 - Run an ICO (receive ETH, ARK, BTC,...)
 - Service Linking: BTC to ETH (via ARK)
 
-\*Currently there are services for ARK~ETH, ARK~BTC, ARK~PRS, ARK A~ARK B
+*Currently there are services for ARK~ETH, ARK~BTC, ARK~PRS, ARK A~ARK B
 
 ---
-### How it work
+### How it works
 
 #### 1. ETH -> ARK
 

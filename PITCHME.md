@@ -297,6 +297,52 @@ vagrant up
 @[39-48](Dynamic fee offsets for formula calculation)
 
 ---
+```javascript
+{
+  "name": "@vendor/your-plugin-name",
+  "description": "This plugin provides X for ARK Core 2.0",
+
+  'use strict'
+  const listener = require('./listener')
+  const Twilio = require('./twilio')
+
+  exports.plugin = {
+    pkg: require('../package.json'),
+    register: async (container, options) => {
+      logger.info('[Monitor] Waiting for Missed Blocks')
+      listener.setUp(options, new Twilio(options.twilio))
+    }
+
+
+  module.exports = {
+    '@arkecosystem/core-event-emitter': {},
+    '@arkecosystem/core-config': {},
+    '@arkecosystem/core-logger': {},
+    ...
+
+    '@vendor/your-plugin-name': {
+      publicKey: 'your-delegate-public-key',
+      twilio: {
+        body: '%s is missing',
+        to: '+12345678901',
+        from: '+12345678901'
+      }
+    },
+  }
+}
+```
+@[2-3](Plugin name)
+@[5-15](Plugin setup)
+@[21-32](Registration of plugin in the plugins.json network setup)
+
+---
+```bash
+bash
+git clone https://github.com/ArkEcosystem/core-plugin-skeleton your-plugin-name
+cd your-plugin-name
+yarn install
+```
+---
 ### The raw truth...
 >Most projects will fail, but the **open-source nature** of the **ecosystem** means learnings and code will be available to all.
 
@@ -316,11 +362,12 @@ vagrant up
 ---
 ---
 ---
-## Blockchain Workshop - How to build your own blockchain?
+## How to build your own blockchain with ARK?
 
 <br/>
 
 Kristjan Kosic
+
 Rok Haluzan
 
 ---?color=white

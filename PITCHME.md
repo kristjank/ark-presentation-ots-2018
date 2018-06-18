@@ -9,6 +9,11 @@
 ---
 ### AGENDA
 - History
+- Why OSS maters
+- Why and What is ARK?
+- How we Use OSS at ARK?
+- Core v2 new features
+- Workshop...
 
 ---
 ### @fa[history] Looking back...

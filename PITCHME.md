@@ -465,8 +465,8 @@ services:
       ARK_NETWORK: "devnet"
       SERVICE_ARK_NETWORK: "devnet"
       SERVICE_ARK_ADDRESS: "<your-dark-address-where-you-want-to-received-fees>"
-      SERVICE_MIN_ARK_STAKE: "0"
-      SERVICE_MIN_ARK_FEE: "1"
+      SERVICE_MIN_ARK_STAKE: "0"  # ARK required in your stake account address
+      SERVICE_MIN_ARK_FEE: "1"  # ARK to charge every 24h to keep API key active
       SERVICE_REQUIRE_AUTH: 0
     expose:
       - "9091"

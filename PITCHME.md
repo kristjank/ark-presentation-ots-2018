@@ -317,6 +317,12 @@ vagrant up
 ---
 ---
 ## Blockchain Workshop - How to build your own blockchain?
+
+<br/>
+
+Kristjan Kosic
+Rok Haluzan
+
 ---?color=white
 ![ArkDeployer](assets/images/ark-deployer.png)
 ```bash

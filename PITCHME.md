@@ -1,8 +1,8 @@
 ### Building an open-source blockchain ecosystem with ARK
 
-<a href="https://www.linkedin.com/in/kristjankosic/">@fa[address-card]Kristjan Kosic</a> 
+<a href="https://www.linkedin.com/in/kristjankosic/">@fa[address-card]Kristjan Kosic</a>
 <br/>
-<a href="https://www.ark.io">@fa[firefox] ARK.io</a> 
+<a href="https://www.ark.io">@fa[firefox] ARK.io</a>
 <br/>
 <a href="https://github.com/arkecosystem">@fa[github] github.com/arkecosystem</a>
 
@@ -31,7 +31,7 @@
 ### @fa[history] @fa[history] @fa[history] Looking back...
 - David Chaum introduced digital cash as a research topic [1983]
   - central server to prevent double spending (SPV)
-  
+
 </br>
 
 - Central servers === Achilles’ heel of digital cash [1999]
@@ -173,21 +173,21 @@
 - Provides protocol and tools for building blockchain service marketplace
 - Chain independent
 
---- 
+---
 ### Bridgechain
->Bridgechain is natively connected with the Mainnet on launch. Both code bases of the Ark Mainnet and the Ark Bridgechain allow interoperability between the chains. 
+>Bridgechain is natively connected with the Mainnet on launch. Both code bases of the Ark Mainnet and the Ark Bridgechain allow interoperability between the chains.
 
 Both blockchains are able to exchange information and value without any need for additional services.
 
---- 
+---
 ### Sidechain
 >A sidechain is an own chain running on an own network but tightly coupled and verified by the mainnet governance.
 
 Put simply, sidechaining is any mechanism that allows tokens from one blockchain to be securely used within a completely separate blockchain but still moved back to the original chain if necessary.
 
---- 
+---
 ### Smartbridge
->SmartBridge is the ability to connect and communicate between blockchains. 
+>SmartBridge is the ability to connect and communicate between blockchains.
 
 Ark’s SmartBridge communicates between the blockchains using a special data section called Vendor Fields and special Encoded Listener nodes that comb through this data for tasks that it can perform.
 
@@ -212,7 +212,7 @@ Ark’s SmartBridge communicates between the blockchains using a special data se
 ---?color=white
 ![ArkDeployer](assets/images/ark-deployer.png)
 ```bash
-cd ~ && git clone https://github.com/ArkEcosystem/ark-deployer.git 
+cd ~ && git clone https://github.com/ArkEcosystem/ark-deployer.git
 && cd ark-deployer
 
 vagrant up
@@ -292,8 +292,8 @@ vagrant up
 }
 ```
 @[17-24](DPOS consensus mechanism properties)
-@[27-37](Static fee properties) 
-@[39-48](Dynamic fee offsets for formula calculation) 
+@[27-37](Static fee properties)
+@[39-48](Dynamic fee offsets for formula calculation)
 
 ---
 ### ARK CORE v2 TOP FEATURES
@@ -336,8 +336,6 @@ vagrant up
 
 ### SO WHAT IS ACES?
 
-Consists of:
-
 - Marketplace
 - Services
 - Listeners
@@ -349,40 +347,32 @@ Consists of:
 A Web Application for searching and executing ACES Service contracts and tracking contract
 executions.
 
-![Marketplace](assets/images/aces-marketplace-contract-form.png)
+<img src="assets/images/aces-marketplace-contract-form.png" style="width: 100%; display: block;">
 
 ---
 
 #### SERVICES
 
-ACES Services create and execute Service Contracts, which can be anything from uploading a file to
-a storage blockchain, performing value transfers, creating smart contracts, executing code on
-blockchain based computing platforms, or interacting with IoT hardware.
-
-Services request information from listeners to confirm whether their requirements have been
-fulfilled. The service provider does not need to run a listener of their own.
+- Perform value transfer
+- Deploy smart contracts
+- Execute code on blockchain based computing platforms
+- Interact with IoT Hardware
 
 Example services:
-- ARK->ETH channel service: http://bit.ly/ark-2-eth
-- ETH->ARK channel service: http://bit.ly/eth-2-ark
-- ARK->ETH contract service: http://bit.ly/ark-2-eth-contract
+
+[ARK->ETH channel](http://bit.ly/ark-2-eth) ● [ETH->ARK channel](http://bit.ly/eth-2-ark) ● [ARK->ETH contract](http://bit.ly/ark-2-eth-contract)
 
 ---
 
 #### LISTENERS
 
-The ACES Listener API provides a way for all the different blockchain transaction events to be
-easily consumed via a common REST-FUL API. It's the component that plugs into a blockchain
-(eg. Bitcoin) and provides standardized API access for ARK services to receive data from a
-blockchain. The listener stands on its own, and does not necessarily need to be run by the same
-person running a service.
-
-Docs: https://ark-aces.github.io/aces-listener-docs/
+- Easy consumption of blockchain events via common API
+- Services ask listeners to confirm if their requirements have been fulfilled
+- Listener does not have to be run by the same person running a service
 
 Example listeners:
-- BTC listener: http://bit.ly/aces-btc-listener
-- ARK listener: http://bit.ly/aces-ark-listener
-- ETH listener: http://bit.ly/aces-eth-listener
+
+[BTC listener](http://bit.ly/aces-btc-listener) ● [ARK listener](http://bit.ly/aces-ark-listener) ● [ETH listener](http://bit.ly/aces-eth-listener)
 
 ---
 
@@ -394,64 +384,121 @@ Example listeners:
 - Run an ICO (receive ETH, ARK, BTC,...)
 - Service Linking: BTC to ETH (via ARK)
 
-*Currently there are services for ARK~ETH, ARK~BTC, ARK~PRS, ARK A~ARK B
+<p class="annotation">* Currently there are services for ARK~ETH, ARK~BTC, ARK~PRS, ARK A~ARK B</p>
 
 ---
-### How it works
+### HOW IT WORKS
 
-#### 1. ETH -> ARK
+</br>
+</br>
+</br>
 
-![ARK to ETH](assets/images/aces-ark-to-eth.png)
+<div align="center">
+  <font size="14 em">
+  <strong>1. ARK -> ETH</strong>
+  </font>
+</div>
+
+---?image=assets/images/aces-ark-to-eth.png?position=center&size=85% 67%&color=white
 
 ---
-### How it works
+### HOW IT WORKS
 
-#### 2. Service Linking
+</br>
+</br>
 
-The design of listeners and services enabled an option to easily link services together.
+<div align="center">
+  <font size="14 em">
+  <strong>2. Service Linking</strong>
+  <p>The design of listeners and services enables an option to easily link services together.</p>
+  </font>
+</div>
 
-![ARK to ETH](assets/images/aces-linking-services.png)
+---?image=assets/images/aces-linking-services.png?position=center&size=75% 80%&color=white
 
 ---
 
-### LET'S SETUP UP ARK TO ETH SERVICE IN 3 STEPS
+### ARK TO ETH SERVICE IN 3 STEPS
 
 ![yay](https://media.giphy.com/media/12UlfHpF05ielO/giphy.gif)
 
-I'll be showing you on the example of my Docker setup. Source can be found here: https://github.com/deadlock-delegate/aces-ark-eth-demo
-
 ---
 
-#### Step 1: Clone ARK ~ ETH repository
+#### STEP 1: Clone ARK to ETH repository
 
-```
-git clone git@github.com:deadlock-delegate/aces-ark-eth-demo.git
-cd aces-ark-eth-demo/
-```
-
----?gist=roks0n/4950d97bb197394ae8bb579a9e8c91cf&lang=Scala
-
-#### Step 2: Change settings in docker-compose.yml
-
-@[8-15]
-@[27-33]
-
----
-
-#### Step 3: Start the project
-
-```
-docker-compose up
+```bash
+$ git clone git@github.com:deadlock-delegate/aces-ark-eth-demo.git
+$ cd aces-ark-eth-demo/
 ```
 
 ---
+#### STEP 2: Change settings in docker-compose.yml
 
-### Other CONTENT
+```yaml
+version: '3'
 
-- Official ACES Github: https://github.com/ark-aces (primarily in Java)
-- Official ACES blog: https://medium.com/@arkaces
-- ACES Listener docs: https://ark-aces.github.io/aces-listener-docs/
-- ARK->PRS, ARK->KAPU: https://github.com/galperins4/PythAces (Python)
-- Official ACES marketplace: https://marketplace.arkaces.com/
+services:
+  ark-eth-channel:
+    image: rokson/aces-ark-ethereum-channel-service:latest
+    command: mvn spring-boot:run
+    environment:
+      EVENT_CALLBACK_URL: "http://ark-eth-channel:9190/arkEvents"
+      APP_PORT: 9190
+      SERVICE_ETH_ADDRESS: "<your-eth-address-hodling-bags-of-eth>"
+      SERVICE_FLAT_FEE: 0
+      SERVICE_PERCENT_FEE: 1
+      ETH_RPC_URL: "http://<eth-rpc>:8545"
+      ARK_MIN_CONFIRMATIONS: 5
+      ARK_LISTENER_URL: "http://listener-ark:9091"
+    expose:
+      - "9190"
+    ports:
+      - "9190:9190"
+    volumes:
+      - ark-eth-channel:/app
+
+  listener-ark:
+    image: rokson/aces-listener-ark
+    command: mvn spring-boot:run
+    environment:
+      APP_PORT: 9091
+      ARK_NETWORK: "devnet"
+      SERVICE_ARK_NETWORK: "devnet"
+      SERVICE_ARK_ADDRESS: "<your-dark-address-where-you-want-to-received-fees>"
+      SERVICE_MIN_ARK_STAKE: "0"
+      SERVICE_MIN_ARK_FEE: "1"
+      SERVICE_REQUIRE_AUTH: 0
+    expose:
+      - "9091"
+    ports:
+      - "9091:9091"
+    volumes:
+      - listener-ark:/app
+
+volumes:
+  listener-ark:
+  ark-eth-channel:
+```
+@[8-15](Modify settings for ark-eth-channel)
+@[27-33](Modify settings for listener-ark)
 
 ---
+
+#### STEP 3: Start the project
+
+```bash
+$ docker-compose up
+```
+
+![Launched](https://media.giphy.com/media/3ohs4rclkSSrNGSlFK/giphy.gif)
+
+---
+
+### ALL THE LINKS
+
+- [Official ACES Github](https://github.com/ark-aces) (primarily Java)
+- [Official ACES blog](https://medium.com/@arkaces)
+- [ACES Listener docs](https://ark-aces.github.io/aces-listener-docs/)
+- [PythAces](http://bit.ly/PythAces): ARK->PRS, ARK->KAPU (Python)
+- [Official ACES marketplace](https://marketplace.arkaces.com)
+- [ARK->ETH Docker demo](http://bit.ly/aces-ark-2-eth-demo)

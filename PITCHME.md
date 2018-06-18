@@ -211,7 +211,7 @@ Ark’s SmartBridge communicates between the blockchains using a special data se
 ---?color=white
 ![ArkDeployer](assets/images/ark-deployer.png)
 ```bash
-git clone https://github.com/ArkEcosystem/ark-deployer.git 
+git clone https://github.com/ArkEcosystem/ark-deployer.git
 cd ark-deployer
 
 vagrant up
@@ -326,7 +326,7 @@ Rok Haluzan
 ---?color=white
 ![ArkDeployer](assets/images/ark-deployer.png)
 ```bash
-git clone https://github.com/ArkEcosystem/ark-deployer.git 
+git clone https://github.com/ArkEcosystem/ark-deployer.git
 cd ark-deployer
 
 vagrant up
@@ -345,6 +345,9 @@ vagrant up
 ---
 
 ### SO WHAT IS ACES?
+
+<br>
+<br>
 
 - Marketplace
 - Services
@@ -368,9 +371,10 @@ executions.
 - Execute code on blockchain based computing platforms
 - Interact with IoT Hardware
 
+
 Example services:
 
-[ARK->ETH channel](http://bit.ly/ark-2-eth) ● [ETH->ARK channel](http://bit.ly/eth-2-ark) ● [ARK->ETH contract](http://bit.ly/ark-2-eth-contract)
+[ARK->ETH](http://bit.ly/ark-2-eth) ● [ETH->ARK](http://bit.ly/eth-2-ark) ● [ARK->ETH contract](http://bit.ly/ark-2-eth-contract)
 
 ---
 
@@ -379,6 +383,7 @@ Example services:
 - Easy consumption of blockchain events via common API
 - Services ask listeners to confirm if their requirements have been fulfilled
 - Listener does not have to be run by the same person running a service
+
 
 Example listeners:
 
@@ -410,6 +415,7 @@ Example listeners:
 </div>
 
 ---?image=assets/images/aces-ark-to-eth.png?position=center&size=85% 67%&color=white
+@title[ACES: ARK to ETH channel service]
 
 ---
 ### HOW IT WORKS
@@ -420,21 +426,26 @@ Example listeners:
 <div align="center">
   <font size="14 em">
   <strong>2. Service Linking</strong>
-  <p>The design of listeners and services enables an option to easily link services together.</p>
+  <p>The design of listeners and services allows to link services using API endpoints.</p>
   </font>
 </div>
 
 ---?image=assets/images/aces-linking-services.png?position=center&size=75% 80%&color=white
+@title[ACES: linking services]
 
 ---
 
-### ARK TO ETH SERVICE IN 3 STEPS
+### ARK TO ETH IN 3 STEPS
 
 ![yay](https://media.giphy.com/media/12UlfHpF05ielO/giphy.gif)
 
 ---
 
 #### STEP 1: Clone ARK to ETH repository
+
+<br>
+<br>
+<br>
 
 ```bash
 $ git clone git@github.com:deadlock-delegate/aces-ark-eth-demo.git
@@ -475,8 +486,8 @@ services:
       ARK_NETWORK: "devnet"
       SERVICE_ARK_NETWORK: "devnet"
       SERVICE_ARK_ADDRESS: "<your-dark-address-where-you-want-to-received-fees>"
-      SERVICE_MIN_ARK_STAKE: "0"  # ARK required in your stake account address
-      SERVICE_MIN_ARK_FEE: "1"  # ARK to charge every 24h to keep API key active
+      SERVICE_MIN_ARK_STAKE: "0"
+      SERVICE_MIN_ARK_FEE: "1"
       SERVICE_REQUIRE_AUTH: 0
     expose:
       - "9091"
@@ -490,7 +501,17 @@ volumes:
   ark-eth-channel:
 ```
 @[8-15](Modify settings for ARK to ETH channel service)
+@[8](Used when the service subscribes to events done to generated ARK address)
+@[10](ETH address where the service providers holds ETH)
+@[11](Define the flat fee for using the service)
+@[12](OR define a percentage fee)
+@[13](Address of your ETH node)
+@[14](Minimum confirmations needed to treat a transaction as valid)
+@[15](URL of the ARK listener)
 @[27-33](Modify settings for ARK listener)
+@[30](Set your ARK address where you want to collect fees)
+@[31](Minimum ARK required in your stake account address for the service to work)
+@[32](Amount of ARK to charge every 24h to keep the API key active)
 
 ---
 
@@ -512,3 +533,4 @@ $ docker-compose up
 - [PythAces](http://bit.ly/PythAces): ARK->PRS, ARK->KAPU (Python)
 - [Official ACES marketplace](https://marketplace.arkaces.com)
 - [ARK->ETH Docker demo](http://bit.ly/aces-ark-2-eth-demo)
+- Join #aces on [ARK's Slack](https://ark.io/slack)

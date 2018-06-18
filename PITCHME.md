@@ -479,8 +479,8 @@ volumes:
   listener-ark:
   ark-eth-channel:
 ```
-@[8-15](Modify settings for ark-eth-channel)
-@[27-33](Modify settings for listener-ark)
+@[8-15](Modify settings for ARK to ETH channel service)
+@[27-33](Modify settings for ARK listener)
 
 ---
 

@@ -405,7 +405,7 @@ vagrant up
 <a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">More detailed setup guide</a>
 
 ---
-### Developer environment setup
+### Development environment setup
 
 - Docker:
   - https://github.com/ArkEcosystem/core
@@ -424,7 +424,7 @@ git clone https://github.com/ArkEcosystem/core-plugin-skeleton your-plugin-name
 cd your-plugin-name
 yarn install
 ```
-
+---
 
 ### ACES
 

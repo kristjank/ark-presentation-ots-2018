@@ -394,7 +394,7 @@ Rok Haluzan
 ![DPOSSimulation](https://files.readme.io/50f3ecb-wBDA04m.gif)
 DPOS Simulation
 
----?color=white
+---
 ![ArkDeployer](assets/images/ark-deployer.png)
 ```bash
 git clone https://github.com/ArkEcosystem/ark-deployer.git
@@ -405,8 +405,6 @@ vagrant up
 <a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">More detailed setup guide</a>
 
 ---
-
----
 ### Developer environment setup
 
 - Docker:
@@ -414,11 +412,13 @@ vagrant up
   - https://docs.ark.io/v1.0/docs/docker
 
 ---
-### Creating you live plugin
+### Creating your own plugin
 - Plugin skeleton checkout
   - basic structure
   - dependent packages 
-  
+  - settings
+  - business logic
+
 ```bash
 git clone https://github.com/ArkEcosystem/core-plugin-skeleton your-plugin-name
 cd your-plugin-name

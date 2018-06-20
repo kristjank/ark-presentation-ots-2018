@@ -378,16 +378,21 @@ Rok Haluzan
 
 ---
 ### Deploy your own ARKBridgechain
->We share the tools we have built and user in our daily work. They are proven and trusted by more that 12000 community members 
----
+>We share the tools we have built and use in our daily work. They are proven and trusted.
 
+---
 ### Deploy your own ARKBridgechain
-- ARKDeployer
-- Explorer
-- Wallets
-  - Desktop wallet
-  - Mobile wallets (iOs and Android)
-- All the API and plugins (usable and already working)
+- <a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">Bridgechain Deployer</a>
+- <a href="https://github.com/ArkEcosystem/explorer">Explorer</a>
+- Wallets (with Ledger HW key support):
+  - <a href="https://github.com/ArkEcosystem/desktop-wallet">Desktop wallet</a>
+  - <a href="https://github.com/ArkEcosystem/mobile-wallet">Mobile wallets (iOS and Android)</a>
+- <a href="https://docs.ark.io/v1.0/reference">Proven Standard API and plugins</a>
+- <a href="https://docs.ark.io/v1.0">Documentation</a>
+
+--- 
+![DPOSSimulation](https://files.readme.io/50f3ecb-wBDA04m.gif)
+DPOS Simulation
 
 ---?color=white
 ![ArkDeployer](assets/images/ark-deployer.png)

@@ -405,6 +405,15 @@ vagrant up
 <a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">More detailed setup guide</a>
 
 ---
+### DEVNET
+1. Running developer network to test and play
+2. Get DARK tokens here:
+  - https://kristjank.github.io/dark-paperwallet/
+  - generates a wallet and sends 50 DARK to it
+3. Checkout the documentation to get started
+  - https://docs.ark.io
+
+---
 ### Development environment setup
 
 - Docker:

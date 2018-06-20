@@ -378,13 +378,15 @@ Rok Haluzan
 
 ---
 ### Deploy your own ARKBridgechain
+>We share the tools we have built and user in our daily work. They are proven and trusted by more that 12000 community members 
 
+### Deploy your own ARKBridgechain
 - ARKDeployer
 - Explorer
 - Wallets
+  - Desktop wallet
+  - Mobile wallets (iOs and Android)
 - All the API and plugins (usable and already working)
-
->We share the tools we have built and user in our daily work. They are proven and trusted by more that 12000 community members 
 
 ---?color=white
 ![ArkDeployer](assets/images/ark-deployer.png)

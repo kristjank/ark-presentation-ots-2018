@@ -376,7 +376,25 @@ Kristjan Kosic
 
 Rok Haluzan
 
----?color=white
+---
+### Deploy your own ARKBridgechain
+>We share the tools we have built and use in our daily work. They are proven and trusted.
+
+---
+### Deploy your own ARKBridgechain
+- <a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">Bridgechain Deployer</a>
+- <a href="https://github.com/ArkEcosystem/explorer">Explorer</a>
+- Wallets (with Ledger HW key support):
+  - <a href="https://github.com/ArkEcosystem/desktop-wallet">Desktop wallet</a>
+  - <a href="https://github.com/ArkEcosystem/mobile-wallet">Mobile wallets (iOS and Android)</a>
+- <a href="https://docs.ark.io/v1.0/reference">Proven Standard API and plugins</a>
+- <a href="https://docs.ark.io/v1.0">Documentation</a>
+
+--- 
+![DPOSSimulation](https://files.readme.io/50f3ecb-wBDA04m.gif)
+DPOS Simulation
+
+---
 ![ArkDeployer](assets/images/ark-deployer.png)
 ```bash
 git clone https://github.com/ArkEcosystem/ark-deployer.git
@@ -387,6 +405,36 @@ vagrant up
 <a href="https://blog.ark.io/ark-deployer-setup-guide-c10825ebb0e4">More detailed setup guide</a>
 
 ---
+### DEVNET
+1. Running developer network to test and play
+2. Get DARK tokens here:
+  - https://kristjank.github.io/dark-paperwallet/
+  - generates a wallet and sends 50 DARK to it
+3. Checkout the documentation to get started
+  - https://docs.ark.io
+
+---
+### Development environment setup
+
+- Docker:
+  - https://github.com/ArkEcosystem/core
+  - https://docs.ark.io/v1.0/docs/docker
+
+---
+### Creating your own plugin
+- Plugin skeleton checkout
+  - basic structure
+  - dependent packages 
+  - settings
+  - business logic
+
+```bash
+git clone https://github.com/ArkEcosystem/core-plugin-skeleton your-plugin-name
+cd your-plugin-name
+yarn install
+```
+---
+
 ### ACES
 
 - Ark Contract Execution Services

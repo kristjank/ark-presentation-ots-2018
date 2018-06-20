@@ -435,6 +435,20 @@ yarn install
 ```
 ---
 
+---
+### SMS-NOTIFIER plugin
+- Plugin to notify on various blockchain events
+- List of possible events: https://docs.ark.io/v1.0/docs/events#section-available-events
+
+```bash
+cd core/plugins
+git clone https://github.com/kristjank/sms-notifier
+
+lerna bootstrap
+```
+---
+
+
 ### ACES
 
 - Ark Contract Execution Services

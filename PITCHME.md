@@ -234,7 +234,7 @@ vagrant up
 - <a href="https://github.com/ArkEcosystem">Client SDKs available >20 programming languages</a>
 - <a href="https://docs.ark.io/v1.0/reference">Standard API interfaces</a>
 - <a href="https://github.com/ArkEcosystem/core#core-packages">Plugin based system</a>
-- WebHooks for blockchain events
+- <a href="https://docs.ark.io/docs/webhooks-2">WebHooks for blockchain events</a>
 - Dynamic fees via AIP 11
 - Fully backwards compatible
 

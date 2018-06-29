@@ -366,10 +366,8 @@ yarn install
 
 
 ---
----
----
 ## How to build your own blockchain with ARK?
-
+HandOn Workshop
 <br/>
 
 Kristjan Kosic

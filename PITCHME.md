@@ -364,10 +364,9 @@ yarn install
   - Custom plugin development
   - ARK ACES Demo
 
-
 ---
 ## How to build your own blockchain with ARK?
-HandOn Workshop
+### Hands-on Workshop
 <br/>
 
 Kristjan Kosic
